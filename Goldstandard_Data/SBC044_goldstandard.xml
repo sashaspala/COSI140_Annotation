@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<DialogActTask>
+<TEXT><![CDATA[0.000	1.993	CAM:	@@@ .. @@ (H)=
+1.993	2.343		No=,
+2.343	2.858		he doesn't --
+2.858	4.622		.. He [doesn't] .. ca=ll really,
+3.252	3.561	LAJUAN:	[(THROAT)]
+4.622	5.276	CAM:	.. I don't --
+5.276	7.155		(H) The only thing is like at at ho=me,
+7.155	9.461		sometimes he likes to sit by me and [stuff like],
+9.067	10.139	LAJUAN:	[(TSK) (H)] I forgot to tell you,
+10.139	11.333		look for the house with the reindeer.
+11.333	13.749		You could find it a lot easier if you couldn't remember where we were.
+13.749	14.214	CAM:	<X Oh [really X>?
+13.981	15.059	LAJUAN:	[(H) <@ (Hx) @>]
+14.537	15.804	CAM:	.. I always] remember <X at X>,
+15.804	17.138	LAJUAN:	.. Once you get [2to it2],
+16.604	17.392	CAM:	[2Once I2] see it,
+17.392	17.705		I know,
+17.705	18.263		oh that's it.
+18.263	19.325	LAJUAN:	... Yeah,
+19.325	20.384	CAM:	I'll look at some of the houses,
+20.384	20.788		I'm like ooh,
+20.788	21.256		is it this one,
+21.256	21.839		is this one it,
+21.839	22.642		.. and then I just- --
+22.642	23.059		Oh no,
+23.059	23.566		that's the one.
+23.566	24.355	LAJUAN:	.. (H) Yeah,
+24.355	25.607		the one with the two reindeer that,
+25.607	28.563		Mark and Tim last year took and put on top of each other as if they were humping.
+28.563	29.029		I was like- <VOX (H) VOX>.
+29.029	30.726		.. (H) .. <@ Neighbors are gonna see this @>,
+30.726	32.017		(H) [so I went out in the] morning I'm like,
+30.865	31.592	CAM:	[Oh <% Go=d %>].
+32.017	32.328	LAJUAN:	<VOX (H)= VOX>,
+32.328	33.475		.. so I get out of my car,
+33.475	35.038		stop in the driveway @@@,
+35.038	36.317		<SM take em off of each other SM>.
+36.317	36.708		I was like,
+36.708	38.018		(H) I'll just kill them.
+38.018	39.253	CAM:	Those naughty boys.
+39.253	40.489	LAJUAN:	.. (H) But um,
+40.489	41.507		... mm,
+41.507	42.102		.. no,
+42.102	42.766		he just --
+42.766	44.340		... (H) He he,
+44.340	46.611		.. he's become mo=re .. atta=ched.
+46.611	48.084		... and,
+48.084	50.363		.. uh- I think a lot of it is because a lot of his,
+50.363	51.843		.. friends have now gotten married,
+51.843	52.507		and have children,
+52.507	54.436		(H) and he doesn't .. do as much with them.
+54.436	56.189		... And I think that's why,
+56.189	58.261		but he has gotten so= att[ached] to me and it,
+57.342	57.710	CAM:	[(THROAT)]
+58.261	60.754	LAJUAN:	(H) .. I've always been very indepe=ndent,
+60.754	63.341		.. (H) and a lot of it had to do with like me growing up the way I did,
+63.341	64.204		with my .. my um,
+64.204	65.202		.. my mother dying,
+65.202	66.040	CAM:	... Mhm,
+66.040	66.398	LAJUAN:	younger,
+66.398	67.510		and then living with my one aunt,
+67.510	69.308		and then my I- aunt died when I was twelve,
+69.308	70.821		(H) and then moving to another aunt,
+70.821	72.033		which was moving up he=re,
+72.033	73.004		(H) and,
+73.004	75.066		.. I I've always had to go ba=ck and forth,
+75.066	76.263		I've always traveled on my own,
+76.263	77.761		I've always flown everywhere by myself,
+77.761	78.616		(H) .. uh,
+78.616	80.195		.. I've always done everything.
+80.195	81.401		I've had to deal with my fa=ther,
+81.401	82.527		I- I'd listen to my sister,
+82.527	84.296		when my nephew .. (H) started college,
+84.296	85.140		how she was saying,
+85.140	88.355		(H) she filled out all of his applications for where he was go=ing and,
+88.355	92.229		(H) she did all of these things when he had to apply for a scholarship or whatever,
+92.229	93.591		(H) she filled out everything,]]></TEXT>
+<TAGS>
+<GENERAL id="G0" spans="0~122" text="0.000	1.993	CAM:	@@@ .. @@ (H)= 1.993	2.343		No=, 2.343	2.858		he doesn&apos;t -- 2.858	4.622		.. He [doesn&apos;t] .. ca=ll really," type="statement" />
+<GENERAL id="G1" spans="154~300" text="4.622	5.276	CAM:	.. I don&apos;t -- 5.276	7.155		(H) The only thing is like at at ho=me, 7.155	9.461		sometimes he likes to sit by me and [stuff like]," type="statement" />
+<GENERAL id="G2" spans="301~494" text="9.067	10.139	LAJUAN:	[(TSK) (H)] I forgot to tell you, 10.139	11.333		look for the house with the reindeer. 11.333	13.749		You could find it a lot easier if you couldn&apos;t remember where we were." type="statement" />
+<GENERAL id="G3" spans="571~621" text="14.537	15.804	CAM:	.. I always] remember &lt;X at X&gt;," type="statement" />
+<GENERAL id="G4" spans="622~670" text="15.804	17.138	LAJUAN:	.. Once you get [2to it2]," type="statement" />
+<GENERAL id="G5" spans="671~760" text="16.604	17.392	CAM:	[2Once I2] see it, 17.392	17.705		I know, 17.705	18.263		oh that&apos;s it." type="statement" />
+<GENERAL id="G6" spans="793~1026" text="19.325	20.384	CAM:	I&apos;ll look at some of the houses, 20.384	20.788		I&apos;m like ooh, 20.788	21.256		is it this one, 21.256	21.839		is this one it, 21.839	22.642		.. and then I just- -- 22.642	23.059		Oh no, 23.059	23.566		that&apos;s the one." type="statement" />
+<GENERAL id="G7" spans="1062~1372" text="24.355	25.607		the one with the two reindeer that, 25.607	28.563		Mark and Tim last year took and put on top of each other as if they were humping. 28.563	29.029		I was like- &lt;VOX (H) VOX&gt;. 29.029	30.726		.. (H) .. &lt;@ Neighbors are gonna see this @&gt;, 30.726	32.017		(H) [so I went out in the] morning I&apos;m like," type="statement" />
+<GENERAL id="G8" spans="1373~1408" text="30.865	31.592	CAM:	[Oh &lt;% Go=d %&gt;]." type="exclamation" />
+<GENERAL id="G9" spans="1447~1646" text="32.328	33.475		.. so I get out of my car, 33.475	35.038		stop in the driveway @@@, 35.038	36.317		&lt;SM take em off of each other SM&gt;. 36.317	36.708		I was like, 36.708	38.018		(H) I&apos;ll just kill them." type="statement" />
+<GENERAL id="G10" spans="1647~1685" text="38.018	39.253	CAM:	Those naughty boys." type="statement" />
+<GENERAL id="G11" spans="1768~2049" text="42.102	42.766		he just -- 42.766	44.340		... (H) He he, 44.340	46.611		.. he&apos;s become mo=re .. atta=ched. 46.611	48.084		... and, 48.084	50.363		.. uh- I think a lot of it is because a lot of his, 50.363	51.843		.. friends have now gotten married, 51.843	52.507		and have children," type="explanation" />
+<QUESTION id="Q0" spans="495~531" text="13.749	14.214	CAM:	&lt;X Oh [really X&gt;?" type="yes_no" />
+<RESPONSE id="R0" spans="32~122" text="1.993	2.343		No=, 2.343	2.858		he doesn&apos;t -- 2.858	4.622		.. He [doesn&apos;t] .. ca=ll really," type="reject" />
+<RESPONSE id="R1" spans="154~184" text="4.622	5.276	CAM:	.. I don&apos;t --" type="reject" />
+<RESPONSE id="R2" spans="495~531" text="13.749	14.214	CAM:	&lt;X Oh [really X&gt;?" type="backchannel" />
+<RESPONSE id="R3" spans="761~792" text="18.263	19.325	LAJUAN:	... Yeah," type="accept" />
+<RESPONSE id="R4" spans="761~792" text="18.263	19.325	LAJUAN:	... Yeah," type="backchannel" />
+<RESPONSE id="R5" spans="1027~1061" text="23.566	24.355	LAJUAN:	.. (H) Yeah," type="backchannel" />
+<RESPONSE id="R7" spans="1027~1061" text="23.566	24.355	LAJUAN:	.. (H) Yeah," type="accept" />
+<RESPONSE id="R8" spans="1686~1745" text="39.253	40.489	LAJUAN:	.. (H) But um, 40.489	41.507		... mm," type="backchannel" />
+<RESPONSE id="R9" spans="1746~1767" text="41.507	42.102		.. no," type="reject" />
+<ACTION_MOTIVATOR id="A0" spans="356~408" text="10.139	11.333		look for the house with the reindeer." type="command" />
+<ACTION_MOTIVATOR id="A1" spans="301~494" text="9.067	10.139	LAJUAN:	[(TSK) (H)] I forgot to tell you, 10.139	11.333		look for the house with the reindeer. 11.333	13.749		You could find it a lot easier if you couldn&apos;t remember where we were." type="suggestion" />
+<ACTION_MOTIVATOR id="A2" spans="793~844" text="19.325	20.384	CAM:	I&apos;ll look at some of the houses," type="commitment" />
+</TAGS>
+</DialogActTask>

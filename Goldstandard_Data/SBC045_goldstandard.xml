@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<DialogActTask>
+<TEXT><![CDATA[0.000	2.471	PATRICK:	... (SNIFF)= .. (Hx)= %Ow.
+2.471	3.590	CORINNA:	.. Is he still a virgin?
+3.590	5.170	PATRICK:	... [Uh],
+4.771	6.046	CORINNA:	[Just] out of cu[2riosity2],
+5.457	6.405	PATRICK:	[2he bought a hook2]er.
+6.405	7.109	CORINNA:	... @
+7.109	7.877	PATRICK:	... But,
+7.877	9.735		w=as he .. a .. virgin when you knew him?
+9.735	11.089	CORINNA:	(H) .. (COUGH)
+11.089	13.317		... I meant,
+13.317	15.702		has he ever had a .. girl where he didn't have to p=ay her.
+15.702	16.430	PATRICK:	.. @Oh @oh,
+16.430	17.747		... he got,
+17.747	18.047		.. like,
+18.047	21.174		.. I told you about the time he got like .. a blowjob .. at the lakefront.
+21.174	22.003	CORINNA:	... No,
+22.003	22.667		you didn't.
+22.667	23.429	PATRICK:	Oh no way.
+23.429	24.150		.. Um,
+24.150	25.110		well what happened was,
+25.110	25.431		(SNIFF)
+25.431	26.254		.. I was just,
+26.254	27.072		% me and Janine,
+27.072	28.330		well let me .. back up here.
+28.330	29.860		.. I started hanging out with Janine,
+29.860	31.690		... Janine and I got s=mashed,
+31.690	33.671		and we .. like .. made out at the lakefront.
+33.671	34.972		.. I don't need the de[tails].
+34.558	35.071	CORINNA:	[By the] way,
+35.071	36.590		I saw the Janine last night.
+36.590	37.283	PATRICK:	.. Oh cool,
+37.283	39.023		... (SNIFF) how's she doing.
+39.023	39.527	CORINNA:	.. Okay.
+39.527	41.082	PATRICK:	I haven't seen her in half a billion years,
+41.082	41.504		so,
+41.504	42.908		... um=,
+42.908	43.409		but anyways,
+43.409	45.345		we were like .. making out and stuff at Duncan lakefront,
+45.345	46.674		so that's what we regularly,
+46.674	47.648		<PAR well not regularly,
+47.648	49.397		did this like th- .. two three times,
+49.397	50.000		something like that PAR>.
+50.000	51.484		(H) So after Victor's,
+51.484	52.946		after Tom had two women,
+52.946	53.308		like,
+53.308	55.566		... fighting over who he's gonna go home with,
+55.566	57.181		(H) he went home with this like uh,
+57.181	58.418		.. one other girl,
+58.418	59.446		like a heavy-set girl,
+59.446	59.667		and,
+59.667	62.512		(H) me and Janine and all of us were walking dow=n the hill.
+62.512	63.095		... You know,
+63.095	64.230		going dow=n,
+64.230	66.503		... where the pier is?
+66.503	67.163		... Except,
+67.163	68.390		we were going down that big hill?
+68.390	69.731		... And it's like uh,
+69.731	72.607		... me and Janine were used to walking down that steep grassy part,
+72.607	73.328		and they went around.
+73.328	75.318		(H) So we hurried up and went in the grassy part,
+75.318	76.806		.. by= the tennis courts.
+76.806	77.789		(H) It was real dark,
+77.789	78.885		and you couldn't see us at all,
+78.885	80.963		after we had gotten .. to that little plank.
+80.963	84.168		(H) So we like hurried up to this one spot we always went to,
+84.168	85.157		we sat and looked around,
+85.157	87.315		and Tom and them were yelling and screaming for us.
+87.315	88.402		.. (H) You know and they,
+88.402	89.663		.. started making out,
+89.663	89.978		like,
+89.978	91.745		.. a hundred yar=ds away from us.
+91.745	93.019		.. (SNIFF) (TSK) You know,
+93.019	93.846		.. but there's trees,
+93.846	94.547		and they were standing,
+94.547	95.940		... in front of a tree,
+95.940	97.071		.. so you couldn't see them,
+97.071	98.923		and we were sitting by .. like .. a tree,]]></TEXT>
+<TAGS>
+<GENERAL id="G0" spans="0~47" text="0.000	2.471	PATRICK:	... (SNIFF)= .. (Hx)= %Ow." type="exclamation" />
+<GENERAL id="G1" spans="125~174" text="4.771	6.046	CORINNA:	[Just] out of cu[2riosity2]," type="explanation" />
+<GENERAL id="G2" spans="175~219" text="5.457	6.405	PATRICK:	[2he bought a hook2]er." type="statement" />
+<GENERAL id="G3" spans="472~647" text="15.702	16.430	PATRICK:	.. @Oh @oh, 16.430	17.747		... he got, 17.747	18.047		.. like, 18.047	21.174		.. I told you about the time he got like .. a blowjob .. at the lakefront." type="statement" />
+<GENERAL id="G4" spans="706~739" text="22.667	23.429	PATRICK:	Oh no way." type="exclamation" />
+<GENERAL id="G6" spans="740~1134" text="23.429	24.150		.. Um, 24.150	25.110		well what happened was, 25.110	25.431		(SNIFF) 25.431	26.254		.. I was just, 26.254	27.072		% me and Janine, 27.072	28.330		well let me .. back up here. 28.330	29.860		.. I started hanging out with Janine, 29.860	31.690		... Janine and I got s=mashed, 31.690	33.671		and we .. like .. made out at the lakefront. 33.671	34.972		.. I don&apos;t need the de[tails]." type="explanation" />
+<GENERAL id="G7" spans="1135~1215" text="34.558	35.071	CORINNA:	[By the] way, 35.071	36.590		I saw the Janine last night." type="statement" />
+<GENERAL id="G8" spans="1216~1250" text="36.590	37.283	PATRICK:	.. Oh cool," type="exclamation" />
+<GENERAL id="G9" spans="1295~1326" text="39.023	39.527	CORINNA:	.. Okay." type="statement" />
+<GENERAL id="G10" spans="1327~2095" text="39.527	41.082	PATRICK:	I haven&apos;t seen her in half a billion years, 41.082	41.504		so, 41.504	42.908		... um=, 42.908	43.409		but anyways, 43.409	45.345		we were like .. making out and stuff at Duncan lakefront, 45.345	46.674		so that&apos;s what we regularly, 46.674	47.648		&lt;PAR well not regularly, 47.648	49.397		did this like th- .. two three times, 49.397	50.000		something like that PAR&gt;. 50.000	51.484		(H) So after Victor&apos;s, 51.484	52.946		after Tom had two women, 52.946	53.308		like, 53.308	55.566		... fighting over who he&apos;s gonna go home with, 55.566	57.181		(H) he went home with this like uh, 57.181	58.418		.. one other girl, 58.418	59.446		like a heavy-set girl, 59.446	59.667		and, 59.667	62.512		(H) me and Janine and all of us were walking dow=n the hill." type="statement" />
+<QUESTION id="Q0" spans="48~93" text="2.471	3.590	CORINNA:	.. Is he still a virgin?" type="yes_no" />
+<QUESTION id="Q1" spans="247~331" text="7.109	7.877	PATRICK:	... But, 7.877	9.735		w=as he .. a .. virgin when you knew him?" type="yes_no" />
+<QUESTION id="Q2" spans="369~471" text="11.089	13.317		... I meant, 13.317	15.702		has he ever had a .. girl where he didn&apos;t have to p=ay her." type="yes_no" />
+<QUESTION id="Q3" spans="1251~1294" text="37.283	39.023		... (SNIFF) how&apos;s she doing." type="wh" />
+<RESPONSE id="R0" spans="94~124" text="3.590	5.170	PATRICK:	... [Uh]," type="backchannel" />
+<RESPONSE id="R1" spans="175~219" text="5.457	6.405	PATRICK:	[2he bought a hook2]er." type="partial_accept" />
+<RESPONSE id="R2" spans="472~506" text="15.702	16.430	PATRICK:	.. @Oh @oh," type="backchannel" />
+<RESPONSE id="R3" spans="472~647" text="15.702	16.430	PATRICK:	.. @Oh @oh, 16.430	17.747		... he got, 17.747	18.047		.. like, 18.047	21.174		.. I told you about the time he got like .. a blowjob .. at the lakefront." type="accept" />
+<RESPONSE id="R4" spans="648~705" text="21.174	22.003	CORINNA:	... No, 22.003	22.667		you didn&apos;t." type="reject" />
+<RESPONSE id="R5" spans="706~761" text="22.667	23.429	PATRICK:	Oh no way. 23.429	24.150		.. Um," type="backchannel" />
+<RESPONSE id="R6" spans="1216~1250" text="36.590	37.283	PATRICK:	.. Oh cool," type="backchannel" />
+<RESPONSE id="R7" spans="1295~1326" text="39.023	39.527	CORINNA:	.. Okay." type="accept" />
+</TAGS>
+</DialogActTask>

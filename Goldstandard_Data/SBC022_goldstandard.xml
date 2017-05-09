@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<DialogActTask>
+<TEXT><![CDATA[2.835	4.073	RANDY:	... (H) %= You know it's=,
+4.073	6.874		.. it was really pretty straightforward this [morning].
+6.518	7.163	LANCE:	                                          [(H)]
+7.163	7.927	RANDY:	... (H) .. And,
+8.795	9.430		... y- z- --
+9.910	11.740		... I thought you did a good job all the way through.
+12.220	14.307		... I mean you were on [top of what you were] scanning,
+12.832	13.059	LANCE:	                       [Hm.
+13.059	13.407		Thanks].
+13.846	14.209		(SNIFF)
+15.229	15.630	RANDY:	... um,
+15.766	17.120	LANCE:	.. should've kept that one Horizon,
+17.120	17.543		Fauker jet.
+17.543	18.693		just t- keep em on the right.
+19.298	20.220	RANDY:	... Why did you switch em.
+20.493	20.954	LANCE:	(H) Well,
+21.892	22.164		... % (Hx)
+22.829	23.608		... looking at something,
+23.608	23.986		I would get --
+23.986	25.642		it didn't seem like I could get someone else out.
+25.779	26.164		... But,
+26.678	27.238		(H) um,
+27.586	28.032		... a=nd,
+28.032	29.439		.. part of it to provide a good service,
+29.439	30.013		but then,
+30.543	31.042	RANDY:	... Yeah.
+31.874	32.320		... (H) % Well,
+32.320	32.993		% that- that- --
+32.993	34.717		I guess that's one reason the two eight's kind of --
+36.433	36.789		... well,
+36.796	38.158		two eight's kinda nice sometimes,
+38.248	38.967		because,
+40.366	41.281		... %= .. % I mean when we're on ten,
+41.281	43.338		all the departures seemed like they're going [out the] left.
+42.717	43.118	LANCE:	                                             [(SNIFF)]
+43.890	45.727	RANDY:	(H) so you really want your arrivals on the right.
+45.742	47.028		.. When you're landing two eight,
+47.618	49.463		(H) .. then you can .. get departures off of,
+49.463	50.816		almost [both] at any time.
+49.780	50.128	LANCE:	       [(SNIFF)]
+50.794	52.072	RANDY:	So you [2always got a2] hole.
+51.036	51.626	LANCE:	       [2N_yeah2].
+52.389	52.836		.. Yeah.
+52.904	53.289	RANDY:	.. So,
+54.454	54.892		... but uh,
+54.892	56.813		don't feel bad about keeping Horizon on the right,
+56.813	57.048		<X boy X>,
+57.048	57.532		because,
+57.622	57.985	LANCE:	Mhm.
+58.681	60.103	RANDY:	... (H) sure doesn't hurt them to taxi <X any X>.
+60.103	61.343		They're so used to having,
+62.031	63.362		... A number one service,
+63.362	63.679		@=[@@@]
+63.611	63.921	LANCE:	  [(TSK) (H) Yeah.
+63.921	64.746		plus] when they're [2departing,g
+64.473	65.494	RANDY:	                   [2every one of em came2] --
+64.927	66.062	LANCE:	.. they're right by2] the gate.
+66.183	66.576		(H) Everyone- --
+66.576	66.939		even,
+66.939	67.423		.. even one or- --
+67.355	68.247		one or two of em I said,
+68.247	69.843		I'll advise if the left becomes available.
+70.168	70.735		(H) [and they said w-,
+70.274	70.667	RANDY:	    [and they --
+70.667	71.090		they still ask].
+70.742	71.340	LANCE:	.. we'd like the] left,
+71.340	72.572		if it <@ becomes [2available @> @@@@2].
+72.104	73.283	RANDY:	                 [2@@@ (H)@2]
+73.510	73.828		I know,
+73.828	74.576		[they still] ask.
+73.828	74.334	LANCE:	[(SNIFF)]
+74.599	76.119	RANDY:	And Viking is the same way.
+76.013	76.459		.. [(H)=]
+76.308	76.769	LANCE:	   [Yeah].
+77.548	78.153	RANDY:	... So.
+78.932	80.006		... There's= sh= --
+80.006	82.214		there's sure nothing wrong with keeping em on the right though.]]></TEXT>
+<TAGS>
+<GENERAL id="G0" spans="0~114" text="2.835	4.073	RANDY:	... (H) %= You know it&apos;s=, 4.073	6.874		.. it was really pretty straightforward this [morning]." type="statement" />
+<GENERAL id="G3" spans="182~310" text="7.163	7.927	RANDY:	... (H) .. And, 8.795	9.430		... y- z- -- 9.910	11.740		... I thought you did a good job all the way through." type="statement" />
+<GENERAL id="G4" spans="311~381" text="12.220	14.307		... I mean you were on [top of what you were] scanning," type="explanation" />
+<GENERAL id="G5" spans="507~635" text="15.766	17.120	LANCE:	.. should&apos;ve kept that one Horizon, 17.120	17.543		Fauker jet. 17.543	18.693		just t- keep em on the right." type="statement" />
+<GENERAL id="G6" spans="741~1029" text="22.829	23.608		... looking at something, 23.608	23.986		I would get -- 23.986	25.642		it didn&apos;t seem like I could get someone else out. 25.779	26.164		... But, 26.678	27.238		(H) um, 27.586	28.032		... a=nd, 28.032	29.439		.. part of it to provide a good service, 29.439	30.013		but then," type="explanation" />
+<GENERAL id="G7" spans="1092~1418" text="32.320	32.993		% that- that- -- 32.993	34.717		I guess that&apos;s one reason the two eight&apos;s kind of -- 36.433	36.789		... well, 36.796	38.158		two eight&apos;s kinda nice sometimes, 38.248	38.967		because, 40.366	41.281		... %= .. % I mean when we&apos;re on ten, 41.281	43.338		all the departures seemed like they&apos;re going [out the] left." type="explanation" />
+<GENERAL id="G8" spans="1495~1718" text="43.890	45.727	RANDY:	(H) so you really want your arrivals on the right. 45.742	47.028		.. When you&apos;re landing two eight, 47.618	49.463		(H) .. then you can .. get departures off of, 49.463	50.816		almost [both] at any time." type="explanation" />
+<GENERAL id="G9" spans="1757~1807" text="50.794	52.072	RANDY:	So you [2always got a2] hole." type="statement" />
+<GENERAL id="G10" spans="1872~2042" text="52.904	53.289	RANDY:	.. So, 54.454	54.892		... but uh, 54.892	56.813		don&apos;t feel bad about keeping Horizon on the right, 56.813	57.048		&lt;X boy X&gt;, 57.048	57.532		because," type="explanation" />
+<GENERAL id="G11" spans="1993~2018" text="56.813	57.048		&lt;X boy X&gt;," type="exclamation" />
+<GENERAL id="G12" spans="2069~2222" text="58.681	60.103	RANDY:	... (H) sure doesn&apos;t hurt them to taxi &lt;X any X&gt;. 60.103	61.343		They&apos;re so used to having, 62.031	63.362		... A number one service," type="statement" />
+<QUESTION id="Q0" spans="636~683" text="19.298	20.220	RANDY:	... Why did you switch em." type="wh" />
+<RESPONSE id="R0" spans="382~430" text="12.832	13.059	LANCE:	                       [Hm." type="backchannel" />
+<RESPONSE id="R1" spans="478~506" text="15.229	15.630	RANDY:	... um," type="backchannel" />
+<RESPONSE id="R2" spans="684~714" text="20.493	20.954	LANCE:	(H) Well," type="backchannel" />
+<RESPONSE id="R3" spans="1030~1060" text="30.543	31.042	RANDY:	... Yeah." type="backchannel" />
+<RESPONSE id="R4" spans="1030~1123" text="30.543	31.042	RANDY:	... Yeah. 31.874	32.320		... (H) % Well, 32.320	32.993		% that- that- --" type="backchannel" />
+<RESPONSE id="R5" spans="1808~1871" text="51.036	51.626	LANCE:	       [2N_yeah2]. 52.389	52.836		.. Yeah." type="accept" />
+<RESPONSE id="R6" spans="1872~1926" text="52.904	53.289	RANDY:	.. So, 54.454	54.892		... but uh," type="backchannel" />
+<RESPONSE id="R7" spans="2043~2068" text="57.622	57.985	LANCE:	Mhm." type="backchannel" />
+<ACTION_MOTIVATOR id="A0" spans="507~590" text="15.766	17.120	LANCE:	.. should&apos;ve kept that one Horizon, 17.120	17.543		Fauker jet." type="suggestion" />
+<ACTION_MOTIVATOR id="A1" spans="1927~1992" text="54.892	56.813		don&apos;t feel bad about keeping Horizon on the right," type="command" />
+<POLITE id="P0" spans="431~454" text="13.059	13.407		Thanks]." type="thanks" />
+</TAGS>
+</DialogActTask>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<DialogActTask>
+<TEXT><![CDATA[0.000	0.708	BEN:	.. Okay folks,
+0.708	2.142		we're coming to a short stairway,
+2.142	2.970		use the handrails,
+2.970	4.087		and be careful please.
+4.087	94.800	>ENV:	((FOOTSTEPS_AND_AMBIENT_CROWD_NOISE))
+94.800	95.277	BEN:	Okay folks,
+95.277	96.340		let's find out where we are.
+96.340	98.341		... We got on the elevator right here,
+98.341	101.019		.. came down and stood on the balcony overlooking the power plant,
+101.019	102.583		... (H) down that stairway,
+102.583	104.621		out on the power plant ramp about that far,
+104.621	106.508		(H) then right at that yellow line.
+106.508	110.367		(H) And you're now standing over the second-largest water pipe in the world,
+110.367	112.169		(H) and it's called a penstock.
+112.169	113.829		... More about that a little bit later.
+113.829	115.576		.. (H) The Colorado River,
+115.576	116.871		flows in this direction.
+116.871	118.334		(H) In order to build a dam here,
+118.334	119.995		the very first thing they had to do=,
+119.995	121.498		(H) was to get rid of that river.
+121.498	124.062		.. (H) So they came up here above where the dam was to be built,
+124.062	125.615		(H) and drilled and blasted out,
+125.615	127.057		four diversion tunnels.
+127.057	128.712		(H) Two on either si=de,
+128.712	130.008		(H) into the canyon wall,
+130.008	131.566		around where the dam was to be built,
+131.566	133.106		(H) out in the river down below.
+133.106	137.059		(H) Each one of these tunnels were drilled and blasted out at fifty-six feet in diameter,
+137.059	139.037		(H) and then lined with three feet of concrete.
+139.037	141.740		.. (H) You're now standing in one of those old diversion tunnels.
+141.740	143.063		... (H) They then came up here,
+143.063	145.367		and they built a cofferdam about a hundred feet high,
+145.367	148.081		(H) to force this river into these diversion tunnels.
+148.081	149.225		(H) Came back down here,
+149.225	150.932		built the other part of that cofferda=m,
+150.932	152.823		(H) about sixty-five feet high=,
+152.823	155.578		(H) to keep this water from backing into the work area.
+155.578	157.284		(H) They now had from he=re,
+157.284	159.045		(H) to here where they could build a dam.
+159.045	161.085		.. (H) They pumped the water out of this area,
+161.085	164.614		(H) and excavated down another hundred and thirty-five feet to bedrock.
+164.614	165.550		.. (H) Okay folks,
+165.550	166.210		if you will please,
+166.210	168.142		take a look at this picture taken during construction,
+168.142	170.764		.. (H) looks like a series of boxes or blocks,
+170.764	172.160		stacked one on top of the other,
+172.160	174.694		.. (H) and those are wooden concrete fo=rms.
+174.694	177.381		(H) Each one of those forms are exactly five feet high,
+177.381	179.659		(H) but they did vary in area somewhat,
+179.659	182.756		(H) because they did not build the dam right straight across the river,
+182.756	184.641		(H) from canyon wall to canyon wa=ll,
+184.641	186.624		(H) they built it in the form of an arc.
+186.624	189.457		... And it's called an arch .. gravity design dam.
+189.457	190.965		(H) Where the force of the water,
+190.965	193.414		coming down the Colorado River hits the face of the dam,
+193.414	197.085		(H) and tends to try to drive these wingtips further into the canyon wa=ll.
+197.085	199.179		.. (H) It's a very strong design.
+199.179	202.265		... They did build two concrete mixing plants here,
+202.265	204.764		(H) they did pour concrete for twenty-four hours a day,
+204.764	205.808		seven days a week,
+205.808	208.020		(H) three hundred and sixty-five days a year.
+208.020	209.282		(H) For two years,
+209.282	211.010		.. less ... six days.
+211.010	215.743		(H) Now every bit of that concrete came down in individual eight-cubic-yard bucketloads.
+215.743	218.384		(H) Eight cubic yards of concrete into one of these forms,
+218.384	221.163		(H) the smallest of which is twenty-two by twenty-five feet,
+221.163	224.279		(H) only filled that form up about three or four inches deep.
+224.279	226.543		.. (H) So there goes that story you may have hea=rd,
+226.543	228.852		(H) that there are workers buried in the concrete here.
+228.852	230.385		.. Couldn't possibly happen.
+230.385	233.313		.. (H) But what they did bury in that freshly poured concrete,
+233.313	235.110		(H) was one-inch steel water pipe.
+235.110	237.513		.. (H) They came down here in this lower cofferda=m,
+237.513	239.354		(H)= and they built an i=ce plant.
+239.354	242.284		.. Capable of making a thousand tons of ice a day.
+242.284	243.653		(H) They used that ice,
+243.653	244.716		to chill the water,]]></TEXT>
+<TAGS>
+<GENERAL id="G0" spans="0~146" text="0.000	0.708	BEN:	.. Okay folks, 0.708	2.142		we&apos;re coming to a short stairway, 2.142	2.970		use the handrails, 2.970	4.087		and be careful please." type="statement" />
+<GENERAL id="G1" spans="279~2844" text="96.340	98.341		... We got on the elevator right here, 98.341	101.019		.. came down and stood on the balcony overlooking the power plant, 101.019	102.583		... (H) down that stairway, 102.583	104.621		out on the power plant ramp about that far, 104.621	106.508		(H) then right at that yellow line. 106.508	110.367		(H) And you&apos;re now standing over the second-largest water pipe in the world, 110.367	112.169		(H) and it&apos;s called a penstock. 112.169	113.829		... More about that a little bit later. 113.829	115.576		.. (H) The Colorado River, 115.576	116.871		flows in this direction. 116.871	118.334		(H) In order to build a dam here, 118.334	119.995		the very first thing they had to do=, 119.995	121.498		(H) was to get rid of that river. 121.498	124.062		.. (H) So they came up here above where the dam was to be built, 124.062	125.615		(H) and drilled and blasted out, 125.615	127.057		four diversion tunnels. 127.057	128.712		(H) Two on either si=de, 128.712	130.008		(H) into the canyon wall, 130.008	131.566		around where the dam was to be built, 131.566	133.106		(H) out in the river down below. 133.106	137.059		(H) Each one of these tunnels were drilled and blasted out at fifty-six feet in diameter, 137.059	139.037		(H) and then lined with three feet of concrete. 139.037	141.740		.. (H) You&apos;re now standing in one of those old diversion tunnels. 141.740	143.063		... (H) They then came up here, 143.063	145.367		and they built a cofferdam about a hundred feet high, 145.367	148.081		(H) to force this river into these diversion tunnels. 148.081	149.225		(H) Came back down here, 149.225	150.932		built the other part of that cofferda=m, 150.932	152.823		(H) about sixty-five feet high=, 152.823	155.578		(H) to keep this water from backing into the work area. 155.578	157.284		(H) They now had from he=re, 157.284	159.045		(H) to here where they could build a dam. 159.045	161.085		.. (H) They pumped the water out of this area, 161.085	164.614		(H) and excavated down another hundred and thirty-five feet to bedrock. 164.614	165.550		.. (H) Okay folks, 165.550	166.210		if you will please, 166.210	168.142		take a look at this picture taken during construction, 168.142	170.764		.. (H) looks like a series of boxes or blocks, 170.764	172.160		stacked one on top of the other, 172.160	174.694		.. (H) and those are wooden concrete fo=rms. 174.694	177.381		(H) Each one of those forms are exactly five feet high, 177.381	179.659		(H) but they did vary in area somewhat, 179.659	182.756		(H) because they did not build the dam right straight across the riv" type="explanation" />
+<ACTION_MOTIVATOR id="A0" spans="79~146" text="2.142	2.970		use the handrails, 2.970	4.087		and be careful please." type="command" />
+<ACTION_MOTIVATOR id="A1" spans="235~278" text="95.277	96.340		let&apos;s find out where we are." type="suggestion" />
+<ACTION_MOTIVATOR id="A2" spans="2344~2452" text="165.550	166.210		if you will please, 166.210	168.142		take a look at this picture taken during construction," type="suggestion" />
+</TAGS>
+</DialogActTask>

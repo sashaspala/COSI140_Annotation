@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<DialogActTask>
+<TEXT><![CDATA[0.00 5.88	DORIS:  	... ~Sam has been,
+5.88 8.58	        	.. has taken such an interest in this retirement bit.
+8.58 9.95	        	.. (H) ... That it --
+9.95 11.55	        	.. it really surprises me.
+11.60 13.35	ANGELA: 	.. Well she's begun to listen.
+13.35 14.30	DORIS:  	.. Yes she has.
+14.30 14.69	ANGELA: 	You know,
+14.69 15.03	        	(H)
+15.03 15.68	DORIS:  	She has.
+15.68 16.50	ANGELA: 	... uh=,
+16.50 19.00	        	she used to .. (H) go over and [read a book,
+18.25 19.38	DORIS:  	                               [%=_Yeah or],
+19.00 19.63	ANGELA: 	or something].
+19.63 20.71	DORIS:  	b- turn a deaf ear.
+20.71 21.71	        	That was for @sure.
+21.71 23.04	        	@[@@@@]
+21.95 23.36	ANGELA: 	[(H) Bu=t uh]=,
+23.36 25.29	        	... once you understand it,
+25.29 26.29	        	.. you [know] you=,
+25.54 25.84	DORIS:  	   [(SNIFF)]
+26.29 28.08	ANGELA: 	you='re interested in getting right in,
+28.08 28.88	        	and going after it.
+28.88 29.13	DORIS:  	Yeah.
+29.13 30.67	        	.. (H) I really oughta call,
+30.67 31.69	        	at least !Reg !Barr,
+31.69 32.67	        	and ask if= uh,
+32.67 35.10	        	... (H) he's still speaking to me,
+35.10 36.38	        	.. @@@@@[@@]
+36.32 39.36	ANGELA: 	        [(H)] Well now he was the one that was up on the (H) % [2left.
+38.70 38.97	DORIS:  	                                                               [2Yeah.
+39.36 39.84	ANGELA: 	.. Up there.
+39.43 39.77	DORIS:  	.. Yeah.
+39.77 40.20	        	Yes2].
+39.85 42.33	ANGELA: 	(H)2] Well he came over to you all smiles,
+42.34 43.08	        	I notice[d].
+42.98 43.73	DORIS:  	[N]_yes.
+43.73 44.02	        	.. Well,
+44.02 46.02	        	we've known each other for thirty some years,
+46.02 46.67	        	why wouldn't @he.
+46.67 48.33	        	(H) But a- anyway=,
+48.33 48.92	        	.. u=m,
+48.92 54.45	        	... I was so glad that he opened up on this disclosure bit.
+54.45 58.88	        	... because it was <<POUND +!Bu=rns that's been ob+jecting to our +having it POUND>>.
+58.88 59.38	ANGELA: 	... Oh?
+59.38 60.58	DORIS:  	.. And I knew this.
+60.58 62.83	        	.. (H) So when he opened up on that,
+62.83 64.08	        	and she followed through,
+64.13 65.38	        	and told about her husband,
+65.38 66.81	        	... (H) you know?
+66.81 68.24	>ENV:   	... ((DOOR))
+68.24 71.07	DORIS:  	Not necessarily that she would approve of it,
+71.07 73.60	        	... but at least she wasn't disapproving &
+73.60 74.03	ANGELA: 	.. Yeah.
+74.03 74.48	DORIS:  	& .. of it.
+74.48 74.78	ANGELA: 	Yeah.
+74.78 76.61	DORIS:  	... (SNIFF) An=d uh,
+76.61 78.31	        	... (H) course !Duvall might- --
+78.31 78.79	        	%= And I- --
+78.79 80.34	        	.. I cannot get over this.
+80.43 81.29	        	... That man.
+81.29 82.42	        	.. I really cannot.
+82.42 83.46	        	.. (H) And you know,
+83.46 84.96	        	.. he must have been thinking,
+84.96 88.24	        	... when he said he wasn't a political appointee,
+88.24 93.52	        	(H) he must have been %%associating .. (H) his relationship .. wi=th .. !Steit[ler].
+93.52 93.52	>ENV:   	                                                                              [((MICROPHONE))]
+93.52 94.19	ANGELA: 	... Oh.
+94.19 94.19	>ENV:   	<<MICROPHONE
+94.19 95.99	DORIS:  	... I really do believe that.
+95.99 96.68	ANGELA: 	Mhm.
+96.68 97.42	DORIS:  	... In his thinking.
+97.42 100.45	        	... I don't know how else he could have .. done it.
+100.45 101.79	        	That ... topples over.
+101.79 101.79	>ENV:   	MICROPHONE>>
+101.79 103.61	DORIS:  	... Um,
+103.61 103.90	SAM:    	(H)=
+103.90 105.81	DORIS:  	(H) but he didn't say that.]]></TEXT>
+<TAGS>
+<GENERAL id="G0" spans="0~198" text="0.00 5.88	DORIS:  	... ~Sam has been, 5.88 8.58	        	.. has taken such an interest in this retirement bit. 8.58 9.95	        	.. (H) ... That it -- 9.95 11.55	        	.. it really surprises me." type="statement" />
+<GENERAL id="G1" spans="199~250" text="11.60 13.35	ANGELA: 	.. Well she&apos;s begun to listen." type="statement" />
+<GENERAL id="G2" spans="404~469" text="16.50 19.00	        	she used to .. (H) go over and [read a book," type="statement" />
+<GENERAL id="G3" spans="536~571" text="19.00 19.63	ANGELA: 	or something]." type="statement" />
+<GENERAL id="G4" spans="572~653" text="19.63 20.71	DORIS:  	b- turn a deaf ear. 20.71 21.71	        	That was for @sure." type="statement" />
+<GENERAL id="G5" spans="844~945" text="26.29 28.08	ANGELA: 	you=&apos;re interested in getting right in, 28.08 28.88	        	and going after it." type="explanation" />
+<GENERAL id="G6" spans="973~1157" text="29.13 30.67	        	.. (H) I really oughta call, 30.67 31.69	        	at least !Reg !Barr, 31.69 32.67	        	and ask if= uh, 32.67 35.10	        	... (H) he&apos;s still speaking to me," type="statement" />
+<GENERAL id="G7" spans="1192~1283" text="36.32 39.36	ANGELA: 	        [(H)] Well now he was the one that was up on the (H) % [2left." type="statement" />
+<GENERAL id="G8" spans="1376~1409" text="39.36 39.84	ANGELA: 	.. Up there." type="statement" />
+<GENERAL id="G9" spans="1468~1565" text="39.85 42.33	ANGELA: 	(H)2] Well he came over to you all smiles, 42.34 43.08	        	I notice[d]." type="statement" />
+<GENERAL id="G10" spans="1596~1989" text="43.73 44.02	        	.. Well, 44.02 46.02	        	we&apos;ve known each other for thirty some years, 46.02 46.67	        	why wouldn&apos;t @he. 46.67 48.33	        	(H) But a- anyway=, 48.33 48.92	        	.. u=m, 48.92 54.45	        	... I was so glad that he opened up on this disclosure bit. 54.45 58.88	        	... because it was &lt;&lt;POUND +!Bu=rns that&apos;s been ob+jecting to our +having it POUND&gt;&gt;." type="statement" />
+<GENERAL id="G11" spans="2019~2252" text="59.38 60.58	DORIS:  	.. And I knew this. 60.58 62.83	        	.. (H) So when he opened up on that, 62.83 64.08	        	and she followed through, 64.13 65.38	        	and told about her husband, 65.38 66.81	        	... (H) you know?" type="explanation" />
+<QUESTION id="Q0" spans="1990~2018" text="58.88 59.38	ANGELA: 	... Oh?" type="yes_no" />
+<QUESTION id="Q1" spans="2214~2252" text="65.38 66.81	        	... (H) you know?" type="yes_no" />
+<RESPONSE id="R0" spans="251~287" text="13.35 14.30	DORIS:  	.. Yes she has." type="accept" />
+<RESPONSE id="R1" spans="288~318" text="14.30 14.69	ANGELA: 	You know," type="backchannel" />
+<RESPONSE id="R2" spans="344~373" text="15.03 15.68	DORIS:  	She has." type="accept" />
+<RESPONSE id="R3" spans="374~403" text="15.68 16.50	ANGELA: 	... uh=," type="backchannel" />
+<RESPONSE id="R4" spans="470~535" text="18.25 19.38	DORIS:  	                               [%=_Yeah or]," type="backchannel" />
+<RESPONSE id="R5" spans="946~972" text="28.88 29.13	DORIS:  	Yeah." type="accept" />
+<RESPONSE id="R6" spans="1410~1467" text="39.43 39.77	DORIS:  	.. Yeah. 39.77 40.20	        	Yes2]." type="accept" />
+<RESPONSE id="R7" spans="1566~1595" text="42.98 43.73	DORIS:  	[N]_yes." type="accept" />
+<RESPONSE id="R8" spans="1566~1625" text="42.98 43.73	DORIS:  	[N]_yes. 43.73 44.02	        	.. Well," type="backchannel" />
+<RESPONSE id="R9" spans="2019~2059" text="59.38 60.58	DORIS:  	.. And I knew this." type="backchannel" />
+<ACTION_MOTIVATOR id="A0" spans="973~1157" text="29.13 30.67	        	.. (H) I really oughta call, 30.67 31.69	        	at least !Reg !Barr, 31.69 32.67	        	and ask if= uh, 32.67 35.10	        	... (H) he&apos;s still speaking to me," type="suggestion" />
+<REPEATS id="RE0" spans="344~373" text="15.03 15.68	DORIS:  	She has." type="restatement" />
+<REPEATS id="RE1" spans="1440~1467" text="39.77 40.20	        	Yes2]." type="restatement" />
+</TAGS>
+</DialogActTask>

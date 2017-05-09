@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<DialogActTask>
+<TEXT><![CDATA[0.00 3.40	>ENV:   	((DOOR_OPENS)) <<TALK
+3.40 4.10	REBECCA: 	<<FOOTSTEPS Okay.
+4.10 5.85	        	... (SNIFF) U=m,
+5.85 7.40	>ENV:   	((DOOR_CLOSES))
+7.40 7.80	REBECCA: 	The --
+7.80 10.15	        	... The way that your testimony is FOOTSTEPS>> coming in,
+10.15 12.01	        	... I don't know if I explained this to you o[n the ph]one,
+11.50 11.75	RICKIE: 	                                             [Hm-m].
+12.01 12.41	REBECCA: 	is,
+12.41 15.61	        	(H)= when a person (Hx) is charged with multiple crimes,
+15.61 16.56	        	(Hx)= .. a=nd,
+16.56 17.16	        	u=m,
+17.16 18.86	        	.. there .. are other incidences,
+18.86 20.56	        	where he= acted in the same way?
+20.56 21.13	RICKIE: 	[Mhm],
+20.56 22.29	REBECCA: 	[(H)] When we have to prove,
+22.29 24.74	        	in this case we have to prove specific intent.
+24.74 24.74	>ENV:   	TALK>>
+24.74 27.19	        	... to= expose himself to a person,
+27.19 28.29	        	.. for sexual arousal.
+28.29 28.54	        	(H)
+28.54 28.84	RICKIE: 	<P Mm P>.
+28.84 29.34	REBECCA: 	U=m,
+29.34 31.99	        	.. when we have to prove something like specific intent,
+31.99 32.84	        	(H) um,
+32.84 34.34	        	or we have to prove identity.
+34.34 36.44	        	... Because he's disputing identity in a coup- --
+36.44 38.14	        	in ... at least one of the cases.
+38.14 38.49	RICKIE: 	[Hm].
+38.14 40.60	REBECCA: 	[(H)]= U=m (Hx)=,
+40.60 41.15	        	then,
+41.15 42.65	        	w=e are allowed to bring in,
+42.65 44.57	        	... prior similar conduct.
+44.57 45.47	        	... U=m,
+45.47 47.37	        	.. where he acted in .. a,
+47.37 48.82	        	.. an identical way,
+48.82 51.47	        	or where the victims were in a similar situation.
+51.47 51.88	RICKIE: 	[Okay].
+51.47 52.24	REBECCA: 	[Things like] that,
+52.24 54.89	        	(H) That's why we're able to have you come in and testify.
+54.89 55.29	RICKIE: 	Okay.
+55.29 55.89	REBECCA: 	Okay,
+55.89 56.94	        	(H) .. U=m,
+56.94 58.54	        	... the cases that we have,
+58.54 59.80	        	... already,
+59.80 60.30	        	.. are,
+60.30 60.75	        	um,
+60.75 63.25	        	.. one happened back in October of nineteen ninety,
+63.25 63.70	        	...(H)
+63.70 64.17	RICKIE: 	[Alright].
+63.70 65.03	REBECCA: 	[and it] happened on BART,
+65.03 67.28	        	.. and it's almost a carbon copy of [2your case2].
+66.75 68.00	RICKIE: 	                                    [2Well I've2] made two,
+68.00 69.45	        	... one a year from,
+69.45 71.25	        	... almost a year from the,
+71.25 72.35	        	.. uh police report.
+72.35 73.68	REBECCA: 	I saw that in your report.
+73.68 75.25	        	I haven't seen the other re[port].
+74.80 75.25	RICKIE: 	                           [Yeah],
+75.25 76.75	        	I made that one through=,
+76.75 78.63	        	(H) matter of fact it was just .. over the phone,
+78.63 80.18	        	and they never called me back or anything,
+80.18 81.95	        	and a year later it happened again,
+81.95 82.33	REBECCA: 	[Okay].
+81.95 82.65	RICKIE: 	[(H) a]=nd,
+82.65 84.05	        	then that's when they made the report,
+84.05 85.80	        	and said they were gonna do something about it (Hx).
+85.80 86.15	REBECCA: 	.. Okay.
+86.15 87.95	RICKIE: 	.. S=o it hap[pened around --
+87.05 88.80	REBECCA: 	             [So you can testify to] two of [2em2].
+87.95 88.30	RICKIE:  	%] --
+88.55 88.92	RICKIE: 	                                            [2Yeah2]=.
+88.92 90.05	REBECCA: 	That's why I had you come up,
+90.05 90.75	        	becau[se=],
+90.45 90.75	RICKIE: 	     [Yeah],
+90.75 91.55	REBECCA: 	... u=m,
+91.55 92.90	        	... that's great.
+92.90 93.50	RICKIE: 	Yeah (Hx).
+93.50 94.10	REBECCA: 	(H) Um,
+94.10 94.75	        	I mean not for @you,
+94.75 95.62	        	[@@@]
+94.75 96.42	RICKIE: 	[@@@] (H) [2@@2]
+96.02 96.77	REBECCA: 	          [2(H)2] [3but3],
+96.42 97.79	ARNOLD: 	                  [3@3]@@[4@@4]
+97.17 97.79	RICKIE: 	                         [4Mhm4].
+97.17 97.79	REBECCA: 	                         [4for us4],
+97.79 99.34	ALL:    	@@@@@
+99.34 100.69	REBECCA: 	(H) U=m,
+100.69 101.84	        	.. (TSK) ... i- --
+101.84 103.09	        	in our first case,
+103.09 104.34	        	.. ~Amelia ~Gonzalez,
+104.34 104.94	        	.. um,
+104.94 105.59	        	... that uh,
+105.59 106.79	        	that happened back in ninety.
+106.79 108.94	        	And she was seated a%- in the rear of the train,
+108.94 109.26	RICKIE: 	[Yeah],
+108.94 109.65	REBECCA: 	[which] .. you were,
+109.65 110.04	RICKIE: 	[2Mhm2].
+109.65 110.84	REBECCA: 	[2(H)2] u=m,
+110.84 112.49	        	... nobody else was around,
+112.49 115.44	        	... and he= sort of walked up and [down the train].
+114.61 115.66	RICKIE: 	                                  [Down the ais]le,
+115.66 116.16	        	.. [2Mhm2].
+115.76 116.83	REBECCA: 	   [2checked every2]thing ou[3t3],
+116.73 117.16	RICKIE: 	                            [3Y3]eah,
+117.16 118.66	REBECCA: 	... and then sat dow[4n4],
+118.51 118.96	RICKIE: 	                    [4M4]hm,
+118.96 120.11	REBECCA: 	.. put the newspaper on his lap,
+120.11 120.43	RICKIE: 	Y[eah],
+120.24 120.69	REBECCA: 	 [mas]turbated,
+120.69 121.79	        	and then lifted the paper [2up2],
+121.59 121.89	RICKIE: 	                          [2Yeah2]=,
+121.89 122.59	REBECCA: 	.. for her to see.
+122.59 124.14	        	... (TSK) And she saw it,
+124.14 125.49	        	.. in the .. the re[flection,
+125.16 125.49	RICKIE: 	                   [n- n- --
+125.49 125.79	        	<X Oh X>,
+125.79 126.34	        	the mirror].
+125.49 127.24	REBECCA: 	(H) cause she was] looking [2out the window,
+126.61 127.81	RICKIE: 	                           [2That's how I did it too2].
+127.24 128.36	REBECCA: 	saying I don't want2] to s[3ee this3].
+127.95 129.08	RICKIE: 	                          [3Cause I didn't3] want to see him,
+129.08 129.93	        	so I looked this way,
+129.93 130.88	        	and you can see it.
+130.88 131.23	REBECCA: 	... Right.
+131.23 131.63	RICKIE: 	You know,
+131.63 133.27	REBECCA: 	Cause it turns into the [mirror] effect.]]></TEXT>
+<TAGS>
+<GENERAL id="G0" spans="41~114" text="3.40 4.10	REBECCA: 	&lt;&lt;FOOTSTEPS Okay. 4.10 5.85	        	... (SNIFF) U=m," type="statement" />
+<GENERAL id="G1" spans="150~335" text="7.40 7.80	REBECCA: 	The -- 7.80 10.15	        	... The way that your testimony is FOOTSTEPS&gt;&gt; coming in, 10.15 12.01	        	... I don&apos;t know if I explained this to you o[n the ph]one," type="statement" />
+<GENERAL id="G2" spans="410~684" text="12.01 12.41	REBECCA: 	is, 12.41 15.61	        	(H)= when a person (Hx) is charged with multiple crimes, 15.61 16.56	        	(Hx)= .. a=nd, 16.56 17.16	        	u=m, 17.16 18.86	        	.. there .. are other incidences, 18.86 20.56	        	where he= acted in the same way?" type="statement" />
+<GENERAL id="G3" spans="713~831" text="20.56 22.29	REBECCA: 	[(H)] When we have to prove, 22.29 24.74	        	in this case we have to prove specific intent." type="statement" />
+<GENERAL id="G4" spans="860~960" text="24.74 27.19	        	... to= expose himself to a person, 27.19 28.29	        	.. for sexual arousal." type="statement" />
+<GENERAL id="G5" spans="1017~1201" text="28.84 29.34	REBECCA: 	U=m, 29.34 31.99	        	.. when we have to prove something like specific intent, 31.99 32.84	        	(H) um, 32.84 34.34	        	or we have to prove identity." type="statement" />
+<GENERAL id="G6" spans="1202~1327" text="34.34 36.44	        	... Because he&apos;s disputing identity in a coup- -- 36.44 38.14	        	in ... at least one of the cases." type="explanation" />
+<GENERAL id="G7" spans="1355~1710" text="38.14 40.60	REBECCA: 	[(H)]= U=m (Hx)=, 40.60 41.15	        	then, 41.15 42.65	        	w=e are allowed to bring in, 42.65 44.57	        	... prior similar conduct. 44.57 45.47	        	... U=m, 45.47 47.37	        	.. where he acted in .. a, 47.37 48.82	        	.. an identical way, 48.82 51.47	        	or where the victims were in a similar situation." type="statement" />
+<GENERAL id="G8" spans="1740~1861" text="51.47 52.24	REBECCA: 	[Things like] that, 52.24 54.89	        	(H) That&apos;s why we&apos;re able to have you come in and testify." type="explanation" />
+<GENERAL id="G9" spans="1950~2159" text="56.94 58.54	        	... the cases that we have, 58.54 59.80	        	... already, 59.80 60.30	        	.. are, 60.30 60.75	        	um, 60.75 63.25	        	.. one happened back in October of nineteen ninety," type="statement" />
+<GENERAL id="G10" spans="2220~2954" text="63.70 65.03	REBECCA: 	[and it] happened on BART, 65.03 67.28	        	.. and it&apos;s almost a carbon copy of [2your case2]. 66.75 68.00	RICKIE: 	                                    [2Well I&apos;ve2] made two, 68.00 69.45	        	... one a year from, 69.45 71.25	        	... almost a year from the, 71.25 72.35	        	.. uh police report. 72.35 73.68	REBECCA: 	I saw that in your report. 73.68 75.25	        	I haven&apos;t seen the other re[port]. 74.80 75.25	RICKIE: 	                           [Yeah], 75.25 76.75	        	I made that one through=, 76.75 78.63	        	(H) matter of fact it was just .. over the phone, 78.63 80.18	        	and they never called me back or anything, 80.18 81.95	        	and a year later it happened again," type="statement" />
+<GENERAL id="G11" spans="2985~3151" text="81.95 82.65	RICKIE: 	[(H) a]=nd, 82.65 84.05	        	then that&apos;s when they made the report, 84.05 85.80	        	and said they were gonna do something about it (Hx)." type="statement" />
+<GENERAL id="G12" spans="3183~3233" text="86.15 87.95	RICKIE: 	.. S=o it hap[pened around --" type="statement" />
+<GENERAL id="G13" spans="3234~3307" text="87.05 88.80	REBECCA: 	             [So you can testify to] two of [2em2]." type="statement" />
+<GENERAL id="G14" spans="3412~3496" text="88.92 90.05	REBECCA: 	That&apos;s why I had you come up, 90.05 90.75	        	becau[se=]," type="explanation" />
+<GENERAL id="G15" spans="3562~3600" text="91.55 92.90	        	... that&apos;s great." type="statement" />
+<GENERAL id="G16" spans="3633~3704" text="93.50 94.10	REBECCA: 	(H) Um, 94.10 94.75	        	I mean not for @you," type="statement" />
+<GENERAL id="G17" spans="3927~3985" text="97.17 97.79	REBECCA: 	                         [4for us4]," type="statement" />
+<GENERAL id="G19" spans="4045~4364" text="100.69 101.84	        	.. (TSK) ... i- -- 101.84 103.09	        	in our first case, 103.09 104.34	        	.. ~Amelia ~Gonzalez, 104.34 104.94	        	.. um, 104.94 105.59	        	... that uh, 105.59 106.79	        	that happened back in ninety. 106.79 108.94	        	And she was seated a%- in the rear of the train," type="statement" />
+<GENERAL id="G20" spans="4396~4440" text="108.94 109.65	REBECCA: 	[which] .. you were," type="statement" />
+<GENERAL id="G21" spans="4510~4635" text="110.84 112.49	        	... nobody else was around, 112.49 115.44	        	... and he= sort of walked up and [down the train]." type="statement" />
+<QUESTION id="Q0" spans="410~684" text="12.01 12.41	REBECCA: 	is, 12.41 15.61	        	(H)= when a person (Hx) is charged with multiple crimes, 15.61 16.56	        	(Hx)= .. a=nd, 16.56 17.16	        	u=m, 17.16 18.86	        	.. there .. are other incidences, 18.86 20.56	        	where he= acted in the same way?" type="yes_no" />
+<QUESTION id="Q1" spans="3234~3307" text="87.05 88.80	REBECCA: 	             [So you can testify to] two of [2em2]." type="yes_no" />
+<RESPONSE id="R0" spans="41~114" text="3.40 4.10	REBECCA: 	&lt;&lt;FOOTSTEPS Okay. 4.10 5.85	        	... (SNIFF) U=m," type="backchannel" />
+<RESPONSE id="R1" spans="336~409" text="11.50 11.75	RICKIE: 	                                             [Hm-m]." type="backchannel" />
+<RESPONSE id="R2" spans="685~712" text="20.56 21.13	RICKIE: 	[Mhm]," type="backchannel" />
+<RESPONSE id="R3" spans="986~1016" text="28.54 28.84	RICKIE: 	&lt;P Mm P&gt;." type="backchannel" />
+<RESPONSE id="R4" spans="986~1043" text="28.54 28.84	RICKIE: 	&lt;P Mm P&gt;. 28.84 29.34	REBECCA: 	U=m," type="backchannel" />
+<RESPONSE id="R5" spans="1328~1354" text="38.14 38.49	RICKIE: 	[Hm]." type="backchannel" />
+<RESPONSE id="R6" spans="1355~1394" text="38.14 40.60	REBECCA: 	[(H)]= U=m (Hx)=," type="backchannel" />
+<RESPONSE id="R7" spans="1711~1739" text="51.47 51.88	RICKIE: 	[Okay]." type="backchannel" />
+<RESPONSE id="R8" spans="1862~1888" text="54.89 55.29	RICKIE: 	Okay." type="backchannel" />
+<RESPONSE id="R9" spans="1917~1949" text="55.89 56.94	        	(H) .. U=m," type="backchannel" />
+<RESPONSE id="R10" spans="1889~1916" text="55.29 55.89	REBECCA: 	Okay," type="backchannel" />
+<RESPONSE id="R11" spans="2188~2219" text="63.70 64.17	RICKIE: 	[Alright]." type="backchannel" />
+<RESPONSE id="R12" spans="2660~2715" text="74.80 75.25	RICKIE: 	                           [Yeah]," type="backchannel" />
+<RESPONSE id="R13" spans="2955~2984" text="81.95 82.33	REBECCA: 	[Okay]." type="backchannel" />
+<RESPONSE id="R14" spans="3152~3182" text="85.80 86.15	REBECCA: 	.. Okay." type="backchannel" />
+<RESPONSE id="R15" spans="3336~3411" text="88.55 88.92	RICKIE: 	                                            [2Yeah2]=." type="accept" />
+<RESPONSE id="R16" spans="3336~3411" text="88.55 88.92	RICKIE: 	                                            [2Yeah2]=." type="backchannel" />
+<RESPONSE id="R17" spans="3497~3530" text="90.45 90.75	RICKIE: 	     [Yeah]," type="backchannel" />
+<RESPONSE id="R18" spans="3531~3561" text="90.75 91.55	REBECCA: 	... u=m," type="backchannel" />
+<RESPONSE id="R19" spans="3601~3662" text="92.90 93.50	RICKIE: 	Yeah (Hx). 93.50 94.10	REBECCA: 	(H) Um," type="backchannel" />
+<RESPONSE id="R20" spans="3633~3662" text="93.50 94.10	REBECCA: 	(H) Um," type="backchannel" />
+<RESPONSE id="R21" spans="3872~3926" text="97.17 97.79	RICKIE: 	                         [4Mhm4]." type="backchannel" />
+<RESPONSE id="R22" spans="4013~4044" text="99.34 100.69	REBECCA: 	(H) U=m," type="backchannel" />
+<RESPONSE id="R23" spans="4365~4395" text="108.94 109.26	RICKIE: 	[Yeah]," type="backchannel" />
+<RESPONSE id="R24" spans="4441~4472" text="109.65 110.04	RICKIE: 	[2Mhm2]." type="accept" />
+<RESPONSE id="R25" spans="4473~4509" text="109.65 110.84	REBECCA: 	[2(H)2] u=m," type="backchannel" />
+</TAGS>
+</DialogActTask>

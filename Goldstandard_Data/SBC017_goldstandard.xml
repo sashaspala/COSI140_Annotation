@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<DialogActTask>
+<TEXT><![CDATA[8.865	9.440	MICHAEL:	.. Hm.
+9.380	10.236		.. (TSK) yeah.
+10.236	12.574	JIM:	... And even if I go out and a=sk for it.
+12.574	12.808		you know,
+12.808	13.216		I say,
+13.216	14.192		<Q can I copy that Q>.
+14.212	15.549		.. I won't feel guilty.
+15.549	17.247		... <% I really won't %>.
+17.247	18.751		.. It's just a set of instructions,
+18.815	19.730		I used to program.
+19.730	20.590		(H) a little bit,
+20.590	21.045		and,
+21.045	22.510		(H) a=nd u=m,
+22.510	25.715		... (TSK) (H) those guys have so much fun writing those programs.
+25.710	26.885		... you know,
+26.885	27.465		.. that's the% --
+27.465	28.610		... I think that's= --
+28.610	29.205		.. [that's pretty --
+28.720	29.390	MICHAEL:	[(TSK) (H) Yeah well,
+29.175	30.560	JIM:	% That's pretty much the end of it].
+29.395	31.780	MICHAEL:	creative people generally] do what they love [2to do2].
+31.285	32.140	JIM:	[2(H)2] Yeah,
+32.140	32.635		right.
+32.595	35.955		.. And that's pretty much the end of the truthful part of the process.
+35.955	37.990		(H) The rest of it is all m=arketing.
+37.990	38.555	MICHAEL:	.. Hm.
+38.555	40.380	JIM:	and the marketplace is uh,
+40.380	40.865		.. you know,
+40.865	43.030		.. maybe I think I live in Tangiers.
+43.030	43.875		(H)= you know?
+43.875	45.895		.. Maybe I think the marketplace is [uh],
+45.560	45.865	MICHAEL		[@]
+45.865	47.480	JIM:	(H) you get what you can get.
+47.480	48.200	MICHAEL:	.. yeah.
+48.200	49.675	JIM:	... (Hx) .. Uh=,
+49.675	51.985		... (H) seems to be that way.
+51.985	52.295		you know,
+52.295	54.490		I- as long as I'm not hurting another person directly,
+54.490	54.865		(H)
+54.865	55.295	MICHAEL:	Right.
+55.295	55.725	JIM:	.. You know?
+55.725	57.120		or even indirectly.
+57.120	59.725		... (H) but just throwing my money out there,
+59.725	60.950		he may never see a penny of it.
+60.950	62.160		he may have sold the rights.
+62.160	63.260		(H) @@@
+63.260	63.830		outright.
+63.830	64.585		[(H) @You @know?
+64.230	65.730	MICHAEL:	[@@@ (H)
+64.545	64.805	JIM:	(H) @@@@]
+64.805	66.210		That certainly happens in] music,
+66.210	67.795	JIM:	(H) @Heavens @ye=s.
+67.795	68.680		[%I-] %yeah.
+68.070	68.615	MICHAEL:	[Yeah].
+68.680	69.120	JIM:	.. You know?
+69.120	70.885		I mean it .. happens all over the [place].
+70.520	71.375	MICHAEL:	You know I wish] I was,
+71.375	71.580		uh,
+71.580	72.255		the person=,
+72.255	74.270		.. whose voice they used in the .. telephone,
+74.270	75.180		when it tells you,
+75.180	76.945		... the number has been changed,
+76.945	78.365		.. (H) And that I had uh,
+78.365	79.070		copyright,
+79.070	79.470		@@
+79.470	80.255		get some royalties.
+80.255	80.430		Like,
+80.430	81.380		(H) that lady,
+81.380	81.700		you know,
+81.700	82.315		h- you hear,
+82.315	84.000		(H) ... <Q the number you have reached,
+84.000	85.800		da-duh da-duh [da-duh da-duh da-duh da-duh Q>].
+84.670	85.800	JIM:	[they got a different woman],
+85.800	86.315		didn't they.
+86.315	86.725	MICHAEL:	.. Hunh?
+87.360	88.060		
+86.725	87.905	JIM:	didn't they get a diffe[rent woman]?]]></TEXT>
+<TAGS>
+<GENERAL id="G0" spans="57~202" text="10.236	12.574	JIM:	... And even if I go out and a=sk for it. 12.574	12.808		you know, 12.808	13.216		I say, 13.216	14.192		&lt;Q can I copy that Q&gt;." type="statement" />
+<GENERAL id="G1" spans="283~666" text="17.247	18.751		.. It&apos;s just a set of instructions, 18.815	19.730		I used to program. 19.730	20.590		(H) a little bit, 20.590	21.045		and, 21.045	22.510		(H) a=nd u=m, 22.510	25.715		... (TSK) (H) those guys have so much fun writing those programs. 25.710	26.885		... you know, 26.885	27.465		.. that&apos;s the% -- 27.465	28.610		... I think that&apos;s= -- 28.610	29.205		.. [that&apos;s pretty --" type="statement" />
+<GENERAL id="G2" spans="712~767" text="29.175	30.560	JIM:	% That&apos;s pretty much the end of it]." type="statement" />
+<GENERAL id="G3" spans="768~846" text="29.395	31.780	MICHAEL:	creative people generally] do what they love [2to do2]." type="statement" />
+<GENERAL id="G4" spans="902~1040" text="32.595	35.955		.. And that&apos;s pretty much the end of the truthful part of the process. 35.955	37.990		(H) The rest of it is all m=arketing." type="statement" />
+<GENERAL id="G5" spans="1071~1196" text="38.555	40.380	JIM:	and the marketplace is uh, 40.380	40.865		.. you know, 40.865	43.030		.. maybe I think I live in Tangiers." type="statement" />
+<GENERAL id="G6" spans="1311~1359" text="45.865	47.480	JIM:	(H) you get what you can get." type="statement" />
+<GENERAL id="G7" spans="1428~1567" text="49.675	51.985		... (H) seems to be that way. 51.985	52.295		you know, 52.295	54.490		I- as long as I&apos;m not hurting another person directly," type="statement" />
+<GENERAL id="G8" spans="1649~1883" text="55.725	57.120		or even indirectly. 57.120	59.725		... (H) but just throwing my money out there, 59.725	60.950		he may never see a penny of it. 60.950	62.160		he may have sold the rights. 62.160	63.260		(H) @@@ 63.260	63.830		outright." type="statement" />
+<QUESTION id="Q0" spans="1197~1226" text="43.030	43.875		(H)= you know?" type="yes_no" />
+<QUESTION id="Q1" spans="1617~1648" text="55.295	55.725	JIM:	.. You know?" type="yes_no" />
+<QUESTION id="Q2" spans="1884~1915" text="63.830	64.585		[(H) @You @know?" type="yes_no" />
+<RESPONSE id="R0" spans="0~56" text="8.865	9.440	MICHAEL:	.. Hm. 9.380	10.236		.. (TSK) yeah." type="backchannel" />
+<RESPONSE id="R1" spans="667~711" text="28.720	29.390	MICHAEL:	[(TSK) (H) Yeah well," type="backchannel" />
+<RESPONSE id="R2" spans="847~901" text="31.285	32.140	JIM:	[2(H)2] Yeah, 32.140	32.635		right." type="accept" />
+<RESPONSE id="R3" spans="1041~1070" text="37.990	38.555	MICHAEL:	.. Hm." type="backchannel" />
+<RESPONSE id="R4" spans="1227~1283" text="43.875	45.895		.. Maybe I think the marketplace is [uh]," type="uncertain" />
+<RESPONSE id="R5" spans="1360~1391" text="47.480	48.200	MICHAEL:	.. yeah." type="backchannel" />
+<RESPONSE id="R6" spans="1392~1427" text="48.200	49.675	JIM:	... (Hx) .. Uh=," type="backchannel" />
+<RESPONSE id="R7" spans="1587~1616" text="54.865	55.295	MICHAEL:	Right." type="accept" />
+<ACTION_MOTIVATOR id="A0" spans="165~241" text="13.216	14.192		&lt;Q can I copy that Q&gt;. 14.212	15.549		.. I won&apos;t feel guilty." type="commitment" />
+<REPEATS id="RE0" spans="712~767" text="29.175	30.560	JIM:	% That&apos;s pretty much the end of it]." type="restatement" />
+</TAGS>
+</DialogActTask>

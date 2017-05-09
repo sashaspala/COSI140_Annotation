@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<DialogActTask>
+<TEXT><![CDATA[0.000	4.475	>ENV:	((DOOR_OPENING_AND_CLOSING))
+4.475	5.077	KAREN:	Hi sweetie.
+5.077	5.908	SCOTT:	... Hey.
+5.908	6.489		.. (THROAT)
+6.489	7.630	KAREN:	<X Sweetie frumptions X>.
+7.630	10.399		... This is kinda open.
+10.399	11.071	SCOTT:	... Yep.
+11.071	12.008		... How was work?
+12.008	13.158	>ENV:	((CLOSET))
+13.158	13.889	KAREN:	I'm so tired.
+13.889	15.155	SCOTT:	... Ti=red.
+15.155	15.743	KAREN:	It was % --
+15.743	16.277		It was okay,
+16.277	16.939		I left my bag there.
+16.939	17.809		... <VOX I left my bag,
+17.809	18.523		and all my money,
+18.523	19.574		and all my things= VOX>.
+19.574	21.174	SCOTT:	... N[ow the gho]sts'll get it.
+20.268	20.558	KAREN:	[They ca-] --
+21.174	22.600		... <@ Ghosts'll get it @>,
+22.600	23.958		... that's okay.
+23.958	24.901		... (TSK) (H)
+24.901	25.505		... Um,
+25.505	27.246		... (TSK) (H)
+27.246	27.954		... ten thirty,
+27.954	29.582		there were probably .. thirty people in the store.
+29.582	30.762	SCOTT:	... Good grief.
+30.762	31.063	KAREN:	We're like,
+31.063	31.946		... <VOX okay,
+31.946	33.211		it's time to go out now.
+33.211	33.989		We're closed.
+33.989	35.292		We're closed (Hx).
+35.292	37.379		... We are= closed no=w.
+37.379	37.728		(Hx) @
+37.728	39.005		.. Please @leave VOX>.
+39.005	40.520	SCOTT:	... Turn [on the] fire alarm?
+39.510	39.673	KAREN:	[I%] --
+40.520	41.995		... Turn on the @fire @alarm,
+41.995	43.121		@@ @
+43.121	43.841		that would do it.
+43.841	46.823		(H)= (BUZZ)=
+46.823	50.570		... (H) These kids were- came in,
+50.570	50.790		and,
+50.790	52.346		... I was .. like,
+52.346	53.518		w- we're closing %.
+53.518	53.913		In a few minutes,
+53.913	54.076		they said,
+54.076	54.470		well we'll --
+54.470	55.597		We'll wait until you kick us out.
+55.597	56.568		Cause they didn't really want to buy anything,
+56.568	57.300		[they just wan]ted to look.
+56.618	56.873	SCOTT:	[Mhm].
+57.300	58.264	KAREN:	(H) And I said,
+58.264	58.742		oka=y,
+58.742	59.845		... we're closed.
+59.845	60.426		... Out.
+60.426	61.169		@ @
+61.169	61.505		@And,
+61.505	62.748		... so I was moving them,
+62.748	63.707		like making them go o[ut,
+63.607	63.932	SCOTT:	[Mhm].
+63.707	65.209	KAREN:	an]d they were .. trying to be cute,
+65.209	66.358		and .. say sweet things,
+66.358	66.612		and --
+66.612	67.808		... To stay in.
+67.808	68.228	SCOTT:	.. Yeah,
+68.228	69.520		lots of student types,
+69.520	70.539	KAREN:	... Yeah,
+70.539	71.491		... there are a lot,
+71.491	72.640		but there are mostly families,
+72.640	73.488		<X so in terms of being [uh X>],
+73.383	73.731	SCOTT:	[Mhm],
+73.731	74.852	KAREN:	... umm,
+74.852	76.629		... and so=,
+76.629	77.604		... (SWALLOW)
+77.604	78.233		kids said well,
+78.233	79.777		... are there any oth%- --]]></TEXT>
+<TAGS>
+<GENERAL id="G0" spans="131~213" text="6.489	7.630	KAREN:	&lt;X Sweetie frumptions X&gt;. 7.630	10.399		... This is kinda open." type="statement" />
+<GENERAL id="G1" spans="308~342" text="13.158	13.889	KAREN:	I&apos;m so tired." type="statement" />
+<GENERAL id="G3" spans="376~436" text="15.155	15.743	KAREN:	It was % -- 15.743	16.277		It was okay," type="statement" />
+<GENERAL id="G4" spans="437~584" text="16.277	16.939		I left my bag there. 16.939	17.809		... &lt;VOX I left my bag, 17.809	18.523		and all my money, 18.523	19.574		and all my things= VOX&gt;." type="explanation" />
+<GENERAL id="G5" spans="585~637" text="19.574	21.174	SCOTT:	... N[ow the gho]sts&apos;ll get it." type="statement" />
+<GENERAL id="G8" spans="829~925" text="27.246	27.954		... ten thirty, 27.954	29.582		there were probably .. thirty people in the store." type="statement" />
+<GENERAL id="G9" spans="926~962" text="29.582	30.762	SCOTT:	... Good grief." type="exclamation" />
+<GENERAL id="G10" spans="963~1065" text="30.762	31.063	KAREN:	We&apos;re like, 31.063	31.946		... &lt;VOX okay, 31.946	33.211		it&apos;s time to go out now." type="statement" />
+<GENERAL id="G11" spans="1066~1190" text="33.211	33.989		We&apos;re closed. 33.989	35.292		We&apos;re closed (Hx). 35.292	37.379		... We are= closed no=w. 37.379	37.728		(Hx) @" type="explanation" />
+<GENERAL id="G12" spans="1435~1771" text="46.823	50.570		... (H) These kids were- came in, 50.570	50.790		and, 50.790	52.346		... I was .. like, 52.346	53.518		w- we&apos;re closing %. 53.518	53.913		In a few minutes, 53.913	54.076		they said, 54.076	54.470		well we&apos;ll -- 54.470	55.597		We&apos;ll wait until you kick us out. 55.597	56.568		Cause they didn&apos;t really want to buy anything," type="statement" />
+<GENERAL id="G13" spans="1435~1814" text="46.823	50.570		... (H) These kids were- came in, 50.570	50.790		and, 50.790	52.346		... I was .. like, 52.346	53.518		w- we&apos;re closing %. 53.518	53.913		In a few minutes, 53.913	54.076		they said, 54.076	54.470		well we&apos;ll -- 54.470	55.597		We&apos;ll wait until you kick us out. 55.597	56.568		Cause they didn&apos;t really want to buy anything, 56.568	57.300		[they just wan]ted to look." type="statement" />
+<GENERAL id="G14" spans="1710~1771" text="55.597	56.568		Cause they didn&apos;t really want to buy anything," type="explanation" />
+<QUESTION id="Q0" spans="244~276" text="11.071	12.008		... How was work?" type="wh" />
+<QUESTION id="Q1" spans="343~375" text="13.889	15.155	SCOTT:	... Ti=red." type="wh" />
+<QUESTION id="Q2" spans="1229~1279" text="39.005	40.520	SCOTT:	... Turn [on the] fire alarm?" type="yes_no" />
+<RESPONSE id="R0" spans="214~243" text="10.399	11.071	SCOTT:	... Yep." type="accept" />
+<RESPONSE id="R1" spans="376~436" text="15.155	15.743	KAREN:	It was % -- 15.743	16.277		It was okay," type="backchannel" />
+<RESPONSE id="R2" spans="638~747" text="20.268	20.558	KAREN:	[They ca-] -- 21.174	22.600		... &lt;@ Ghosts&apos;ll get it @&gt;, 22.600	23.958		... that&apos;s okay." type="backchannel" />
+<RESPONSE id="R3" spans="1310~1406" text="0.520	41.995		... Turn on the @fire @alarm, 41.995	43.121		@@ @ 43.121	43.841		that would do it." type="accept" />
+<ACTION_MOTIVATOR id="A0" spans="1632~1709" text="54.076	54.470		well we&apos;ll -- 54.470	55.597		We&apos;ll wait until you kick us out." type="commitment" />
+<ACTION_MOTIVATOR id="A1" spans="1191~1228" text="37.728	39.005		.. Please @leave VOX&gt;." type="suggestion" />
+<ACTION_MOTIVATOR id="A2" spans="1309~1406" text="40.520	41.995		... Turn on the @fire @alarm, 41.995	43.121		@@ @ 43.121	43.841		that would do it." type="suggestion" />
+<REPEATS id="RE0" spans="473~511" text="16.939	17.809		... &lt;VOX I left my bag," type="restatement" />
+<REPEATS id="RE1" spans="1095~1168" text="33.989	35.292		We&apos;re closed (Hx). 35.292	37.379		... We are= closed no=w." type="restatement" />
+<REPEATS id="RE2" spans="1309~1353" text="40.520	41.995		... Turn on the @fire @alarm," type="restatement" />
+<POLITE id="P0" spans="47~77" text="4.475	5.077	KAREN:	Hi sweetie." type="greeting" />
+<POLITE id="P1" spans="78~105" text="5.077	5.908	SCOTT:	... Hey." type="greeting" />
+</TAGS>
+</DialogActTask>

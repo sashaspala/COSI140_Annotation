@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<DialogActTask>
+<TEXT><![CDATA[0.000	3.844	KRISTIN:	.. (H) Well let's .. kind of figure out a cla=ssic,
+3.844	4.449		u=m,
+4.449	5.674		%= diet,
+5.674	6.139		uh,
+6.139	6.930		.. quota,
+6.930	8.047		% % @for @you.
+8.047	8.846		(H) And,
+8.846	10.047		let me get a piece of paper,
+10.047	12.368		so that we can write that .. down,
+12.368	15.127	>ENV:	((DESK_DRAWER))[=]=
+14.550	14.936	PAIGE:	[(SNIFF)]
+14.936	17.250	KRISTIN:	... The [2way we2] do= this,
+15.847	16.290	PAIGE:	[2Yeah2].
+17.250	18.619	KRISTIN:	... is first of all,
+18.619	19.416		we make a,
+19.416	20.324		a guesstimate,
+20.324	21.820		.. of how many calories,
+21.820	22.774		.. typically,
+22.774	23.961		(H) that you would need.
+23.961	25.975		D- we- we didn't do this last time did we.
+25.975	26.603	PAIGE:	Hm-m[=].
+26.395	26.884	KRISTIN:	[Ok]ay.
+26.884	27.612		(H) Alright.
+27.612	27.818		Yeah,
+27.818	28.946		I think .. we were gonna wait,
+28.946	29.522		until we,
+29.522	31.206		.. cause you were gonna change some things maybe,
+31.206	32.349		after you saw ~Doris.
+32.349	32.729		So,
+32.729	34.851		(H) first of all we make a good guesstimate.
+34.851	36.247		Of how many calories you need.
+36.247	37.533		And that's always a tough one.
+37.533	37.981		Um[=,
+37.862	38.420	PAIGE:	[Mhm=].
+38.212	39.595	KRISTIN:	.. m=]ost women,
+39.595	42.283		(H) unless you work out a l=o=t.
+42.283	45.823		.. You probably <@ aren't burning much more @> than like eighteen hundred,
+45.823	48.656		(H)= to [maybe=] .. two thousand calories.
+46.466	47.059	PAIGE:	[Mhm].
+48.656	50.036	KRISTIN:	(H)= So (Hx),
+50.036	51.038		what we can do (Hx),
+51.038	51.623		um,
+51.623	52.453		.. (TSK) I would say,
+52.453	54.845		I'm gonna go ahead and make it out about eighteen hundred.
+54.845	55.872		.. Just because,
+55.872	56.268		uh,
+56.268	57.554		you're at a good weight,
+57.554	59.363		you're about five fi=ve,
+59.363	60.907		.. (H)= u=m,
+60.907	64.184		... (TSK) ... %I think that would be a prudent place to,
+64.184	65.250		.. to start out from.
+65.250	66.483		.. I know I won't uh,
+66.483	67.682		.. cause you to gain weight,
+67.682	67.880		and,
+67.880	69.398		.. you probably won't lose any either.
+69.398	70.034		[But uh,
+69.398	70.441	PAIGE:	[@@@ @]
+70.034	70.922	KRISTIN:	(H)] Okay.
+70.922	73.197		So we're gonna take [2eighteen2] hundred ca[3lories3]=,
+71.562	72.022	PAIGE:	[2(SNIFF)2]
+72.624	73.000		[3Uh h-3] --
+73.197	73.907		How um,
+73.907	76.350		.. how many calories do you think I'm eating now,
+76.350	77.963		or can you even tell= [that],
+77.577	77.943	KRISTIN:	[(TSK) (H)]
+77.963	78.663	PAIGE:	from loo[2king2]?
+78.383	80.324	KRISTIN:	I could do a calorie count,
+80.440	80.877		um,
+80.877	81.719		on that,
+81.719	84.429		[.. but I'd actually need more .. amounts=].
+81.719	82.397	PAIGE:	[(H) Although,
+82.397	83.947		you wouldn't be able to tell,
+83.947	84.638		because]=,
+84.638	85.208		there's no,
+85.208	86.411		% I don't write down,
+86.411	87.452		like the fa=ts,
+87.452	88.445		and things like that.]]></TEXT>
+<TAGS>
+<GENERAL id="G0" spans="367~418" text="14.936	17.250	KRISTIN:	... The [2way we2] do= this," type="statement" />
+<GENERAL id="G1" spans="450~658" text="17.250	18.619	KRISTIN:	... is first of all, 18.619	19.416		we make a, 19.416	20.324		a guesstimate, 20.324	21.820		.. of how many calories, 21.820	22.774		.. typically, 22.774	23.961		(H) that you would need." type="explanation" />
+<GENERAL id="G2" spans="1000~1191" text="32.349	32.729		So, 32.729	34.851		(H) first of all we make a good guesstimate. 34.851	36.247		Of how many calories you need. 36.247	37.533		And that&apos;s always a tough one. 37.533	37.981		Um[=," type="statement" />
+<GENERAL id="G3" spans="1221~1456" text="38.212	39.595	KRISTIN:	.. m=]ost women, 39.595	42.283		(H) unless you work out a l=o=t. 42.283	45.823		.. You probably &lt;@ aren&apos;t burning much more @&gt; than like eighteen hundred, 45.823	48.656		(H)= to [maybe=] .. two thousand calories." type="statement" />
+<GENERAL id="G4" spans="1688~1918" text="54.845	55.872		.. Just because, 55.872	56.268		uh, 56.268	57.554		you&apos;re at a good weight, 57.554	59.363		you&apos;re about five fi=ve, 59.363	60.907		.. (H)= u=m, 60.907	64.184		... (TSK) ... %I think that would be a prudent place to," type="explanation" />
+<QUESTION id="Q0" spans="659~716" text="23.961	25.975		D- we- we didn&apos;t do this last time did we." type="yes_no" />
+<QUESTION id="Q1" spans="1485~1557" text="48.656	50.036	KRISTIN:	(H)= So (Hx), 50.036	51.038		what we can do (Hx)," type="wh" />
+<RESPONSE id="R0" spans="419~449" text="15.847	16.290	PAIGE:	[2Yeah2]." type="backchannel" />
+<RESPONSE id="R1" spans="717~746" text="25.975	26.603	PAIGE:	Hm-m[=]." type="accept" />
+<RESPONSE id="R2" spans="717~826" text="25.975	26.603	PAIGE:	Hm-m[=]. 26.395	26.884	KRISTIN:	[Ok]ay. 26.884	27.612		(H) Alright. 27.612	27.818		Yeah," type="backchannel" />
+<RESPONSE id="R3" spans="1192~1220" text="37.862	38.420	PAIGE:	[Mhm=]." type="backchannel" />
+<RESPONSE id="R4" spans="1457~1484" text="46.466	47.059	PAIGE:	[Mhm]." type="backchannel" />
+<ACTION_MOTIVATOR id="A0" spans="0~180" text="0.000	3.844	KRISTIN:	.. (H) Well let&apos;s .. kind of figure out a cla=ssic, 3.844	4.449		u=m, 4.449	5.674		%= diet, 5.674	6.139		uh, 6.139	6.930		.. quota, 6.930	8.047		% % @for @you." type="suggestion" />
+<ACTION_MOTIVATOR id="A1" spans="0~295" text="0.000	3.844	KRISTIN:	.. (H) Well let&apos;s .. kind of figure out a cla=ssic, 3.844	4.449		u=m, 4.449	5.674		%= diet, 5.674	6.139		uh, 6.139	6.930		.. quota, 6.930	8.047		% % @for @you. 8.047	8.846		(H) And, 8.846	10.047		let me get a piece of paper, 10.047	12.368		so that we can write that .. down," type="commitment" />
+<ACTION_MOTIVATOR id="A2" spans="827~999" text="27.818	28.946		I think .. we were gonna wait, 28.946	29.522		until we, 29.522	31.206		.. cause you were gonna change some things maybe, 31.206	32.349		after you saw ~Doris." type="suggestion" />
+<ACTION_MOTIVATOR id="A3" spans="1577~1687" text="51.623	52.453		.. (TSK) I would say, 52.453	54.845		I&apos;m gonna go ahead and make it out about eighteen hundred." type="commitment" />
+</TAGS>
+</DialogActTask>

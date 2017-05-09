@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<DialogActTask>
+<TEXT><![CDATA[2.985	3.620	JENNIFER:	We need a --
+3.700	5.945		.. (H) .. Do you have any sharp objects on you?
+7.040	7.448	DAN:	... %No.
+10.586	11.074		... (Hx) Keys?
+12.102	14.027	JENNIFER:	... No I need like a little pin or something.
+19.090	19.947		... You have [a pencil]?
+19.406	20.421	DAN:	             [You have anything] in your hair?
+20.883	21.463	JENNIFER:	... No.
+21.595	23.348	DAN:	(Hx) .. (THROAT)
+24.877	26.380	JENNIFER:	... (TSK) <WH Fuck WH>.
+28.753	29.663	DAN:	... What do you have to hit.
+30.546	31.759	JENNIFER:	(H) % See this is the [little] --
+31.298	32.168	>MAC:	                      [((BEEP]_BEEP_BEEP))
+32.076	32.484	JENNIFER:	Oh.
+32.484	33.341		.. Oh oh.
+33.684	33.974	DAN:	.. Cool?
+34.053	34.686	JENNIFER:	.. Okay.
+36.004	37.230		... <VOX Alrigh=t VOX>.
+37.455	37.652		.. See,
+37.652	38.707		it was just slow.
+39.524	39.788		.. (H) Okay.
+39.788	40.460		This is me?
+41.344	41.937		... Is this [me]?
+41.581	41.924	DAN:	            [Yeah].
+41.990	42.267		.. Yeah.
+42.451	43.176		... ~Jennifer.
+43.335	43.717	JENNIFER:	... Oh.
+44.363	44.864		... That's right.
+44.983	45.932	DAN:	.. There you go thinking again.
+46.156	47.118	JENNIFER:	.. <VOX Smart ass.
+47.632	47.962		.. (KISS)
+48.845	49.900		.. (H) Smart ass VOX>.
+49.887	50.599		Alright.
+51.021	51.680		... (TSK) (H)
+51.680	51.970	DAN:	Wow.
+51.970	53.222		Who took over uh,
+53.447	53.868	JENNIFER:	.. <WH Oh.
+53.868	54.633		They got WH> North America.
+54.699	56.822		But .. <MRC not for lo=ng MRC>.
+57.995	58.562		... <WH Oh=,
+58.641	59.432		[<X my God X>WH>].
+58.641	59.392	DAN:	[(WHISTLE)]
+59.986	60.790	JENNIFER:	.. Oh my God,
+60.790	61.990		did you [see that]?
+61.278	61.884	DAN:	        [Because player] thr- --
+62.148	63.374		.. player three is aggressive,
+63.374	65.154		so he's gonna like go for every[thing].
+64.811	65.417	JENNIFER:	                               [How do you] know.
+65.417	66.564		Did I make him aggres[2sive2]?
+66.222	66.498	DAN:	                     [2Yeah,
+66.433	67.289		you made him2] aggressive,
+67.289	67.777		so,
+67.870	68.568		... he's gonna like,
+68.568	70.019		try to tear everything up now.
+71.165	71.706		... U=m,
+71.706	72.365		that's pretty well,
+72.365	73.552		like secure right there,
+73.776	74.330		so maybe --
+79.471	80.381		... That's me,
+82.240	82.596		... XX
+85.536	86.736	JENNIFER:	... <WH Oh= fuck WH>.
+90.322	90.770	DAN:	... <WH Wow,
+90.770	92.088		he wiped my ass out WH>.
+96.940	98.034	>MAC:	... ((BEEP_BEEP_BEEP))
+102.055	102.833	JENNIFER:	... Ah=,
+102.833	103.518		you suck.
+103.663	104.125		Watch this.
+110.031	111.073		... <VOX Looser VOX>.
+113.077	113.485	DAN:	... (Hx)
+113.591	114.711	JENNIFER:	What else can we [do tomorrow],
+114.224	114.738	DAN:	                 [(THROAT)]
+114.738	115.727	JENNIFER:	besides go to the movies.
+115.700	116.359		... t-  --
+116.795	117.836	DAN:	.. Go out to dinner?
+119.168	120.552	JENNIFER:	... I'm so= not hungry right now,
+120.552	121.883		it's hard for me to think about food.
+121.883	122.411	DAN:	.. Alright.]]></TEXT>
+<TAGS>
+<GENERAL id="G0" spans="0~34" text="2.985	3.620	JENNIFER:	We need a --" type="statement" />
+<GENERAL id="G1" spans="396~443" text="24.877	26.380	JENNIFER:	... (TSK) &lt;WH Fuck WH&gt;." type="exclamation" />
+<GENERAL id="G2" spans="613~665" text="32.076	32.484	JENNIFER:	Oh. 32.484	33.341		.. Oh oh." type="exclamation" />
+<GENERAL id="G3" spans="766~849" text="37.455	37.652		.. See, 37.652	38.707		it was just slow. 39.524	39.788		.. (H) Okay." type="statement" />
+<GENERAL id="G4" spans="973~1002" text="42.451	43.176		... ~Jennifer." type="statement" />
+<GENERAL id="G5" spans="1068~1118" text="44.983	45.932	DAN:	.. There you go thinking again." type="statement" />
+<GENERAL id="G6" spans="1119~1277" text="46.156	47.118	JENNIFER:	.. &lt;VOX Smart ass. 47.632	47.962		.. (KISS) 48.845	49.900		.. (H) Smart ass VOX&gt;. 49.887	50.599		Alright. 51.021	51.680		... (TSK) (H)" type="statement" />
+<GENERAL id="G7" spans="1278~1301" text="51.680	51.970	DAN:	Wow." type="exclamation" />
+<GENERAL id="G8" spans="1460~1521" text="57.995	58.562		... &lt;WH Oh=, 58.641	59.432		[&lt;X my God X&gt;WH&gt;]." type="exclamation" />
+<GENERAL id="G9" spans="1335~1521" text="53.447	53.868	JENNIFER:	.. &lt;WH Oh. 53.868	54.633		They got WH&gt; North America. 54.699	56.822		But .. &lt;MRC not for lo=ng MRC&gt;. 57.995	58.562		... &lt;WH Oh=, 58.641	59.432		[&lt;X my God X&gt;WH&gt;]." type="statement" />
+<GENERAL id="G10" spans="1553~1590" text="59.986	60.790	JENNIFER:	.. Oh my God," type="exclamation" />
+<GENERAL id="G11" spans="1626~1778" text="61.278	61.884	DAN:	        [Because player] thr- -- 62.148	63.374		.. player three is aggressive, 63.374	65.154		so he&apos;s gonna like go for every[thing]." type="explanation" />
+<QUESTION id="Q0" spans="35~95" text="3.700	5.945		.. (H) .. Do you have any sharp objects on you?" type="yes_no" />
+<QUESTION id="Q1" spans="122~151" text="10.586	11.074		... (Hx) Keys?" type="yes_no" />
+<QUESTION id="Q2" spans="222~261" text="19.090	19.947		... You have [a pencil]?" type="yes_no" />
+<QUESTION id="Q3" spans="262~327" text="19.406	20.421	DAN:	             [You have anything] in your hair?" type="yes_no" />
+<QUESTION id="Q4" spans="444~491" text="28.753	29.663	DAN:	... What do you have to hit." type="wh" />
+<QUESTION id="Q5" spans="666~693" text="33.684	33.974	DAN:	.. Cool?" type="yes_no" />
+<QUESTION id="Q6" spans="850~909" text="39.788	40.460		This is me? 41.344	41.937		... Is this [me]?" type="yes_no" />
+<QUESTION id="Q7" spans="1302~1334" text="51.970	53.222		Who took over uh," type="wh" />
+<QUESTION id="Q8" spans="1591~1625" text="60.790	61.990		did you [see that]?" type="yes_no" />
+<QUESTION id="Q9" spans="1779~1852" text="64.811	65.417	JENNIFER:	                               [How do you] know." type="wh" />
+<QUESTION id="Q10" spans="1853~1898" text="65.417	66.564		Did I make him aggres[2sive2]?" type="yes_no" />
+<RESPONSE id="R0" spans="96~121" text="7.040	7.448	DAN:	... %No." type="reject" />
+<RESPONSE id="R1" spans="152~221" text="12.102	14.027	JENNIFER:	... No I need like a little pin or something." type="reject" />
+<RESPONSE id="R2" spans="328~359" text="20.883	21.463	JENNIFER:	... No." type="reject" />
+<RESPONSE id="R3" spans="694~765" text="34.053	34.686	JENNIFER:	.. Okay. 36.004	37.230		... &lt;VOX Alrigh=t VOX&gt;." type="backchannel" />
+<RESPONSE id="R4" spans="910~972" text="41.581	41.924	DAN:	            [Yeah]. 41.990	42.267		.. Yeah." type="accept" />
+<RESPONSE id="R5" spans="1225~1248" text="49.887	50.599		Alright." type="backchannel" />
+<RESPONSE id="R6" spans="1899~1988" text="66.222	66.498	DAN:	                     [2Yeah, 66.433	67.289		you made him2] aggressive," type="accept" />
+<ACTION_MOTIVATOR id="A0" spans="0~34" text="2.985	3.620	JENNIFER:	We need a --" type="suggestion" />
+<ACTION_MOTIVATOR id="A1" spans="492~549" text="30.546	31.759	JENNIFER:	(H) % See this is the [little] --" type="command" />
+<REPEATS id="RE1" spans="641~665" text="32.484	33.341		.. Oh oh." type="restatement" />
+<REPEATS id="RE2" spans="877~909" text="41.344	41.937		... Is this [me]?" type="repetition_request" />
+<REPEATS id="RE3" spans="949~972" text="41.990	42.267		.. Yeah." type="restatement" />
+<REPEATS id="RE4" spans="1187~1224" text="48.845	49.900		.. (H) Smart ass VOX&gt;." type="restatement" />
+</TAGS>
+</DialogActTask>

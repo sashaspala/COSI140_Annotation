@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<DialogActTask>
+<TEXT><![CDATA[2.750	4.370	SETH:	... Excuse me.
+9.480	16.210	>ENV:	... ((DOG_BARKING_BEGINS))
+10.290	10.900	LARRY:	... Hey,
+10.900	12.150		how are you guy?
+11.850	12.760	SETH:	... Are you ~Larry?
+28.820	29.780		... Are you ~Larry?
+30.060	30.520	LARRY:	... Yes.
+30.520	31.120		[How are you].
+30.520	31.120	SETH:	[Are you] --
+31.120	32.020		.. You're the guy.
+32.240	32.980	LARRY:	... Hunh=?
+32.930	34.280	SETH:	.. You're the guy to talk to then.
+34.100	34.900	LARRY:	I'm the guy.
+34.900	35.630		[Yeah].
+34.900	35.630	SETH:	[@@]
+35.840	37.240		(H) I didn't know if I had the right place.
+37.050	37.500	LARRY:	..  <@ Yeah,
+37.500	38.210		you got it @>.
+38.210	38.870		.. I just --
+39.990	41.310	SETH:	... What are you doing there.
+41.200	42.300	LARRY:	<@ You're probably trying t- @> --
+42.300	43.450		.. <VOX Yeah this is strange,
+43.450	45.010		what's this [guy] doing VOX>.
+43.590	44.720	SETH:	            [@@]
+44.990	49.250	LARRY:	.. I'm putting water in a ... <X twenty-six X> gallon container,
+49.250	50.720		inside my ... truck.
+47.600	50.660	>ENV:	((DOG_BARKING_ENDS))
+51.170	51.850	SETH:	... Wow.
+51.850	52.480		.. [That's quite a p-] --
+51.840	53.490	LARRY:	   [Cause I had to] haul it to a property,
+53.490	54.740		which doesn't have any water,
+54.740	56.330		.. and I have to spray the road.
+56.330	57.020	SETH:	.. Ah=.
+57.020	58.230	LARRY:	.. @@
+58.230	60.610		... [Cause the road] .. before .. you can drive on it,
+58.230	59.290	SETH:	    [Interesting].
+60.610	63.100	LARRY:	it needs ... more uh --
+64.160	66.590		... more ... stability.
+66.590	67.750		... Evidently.
+67.890	70.190		... So give me one second to lock this thing,
+70.190	70.760		[and then XX],
+70.190	71.340	SETH:	[Is that to keep the] dust,
+71.340	72.410		.. keep the dust down?
+72.530	73.300	LARRY:	... well (Hx),
+73.300	73.610		no,
+73.610	74.790		.. it's not that so much,
+74.790	75.120		it's uh,
+75.120	75.840	>ENV:	((DOG_BARKING_BEGINS)
+75.120	75.840	LARRY:	they put,
+75.840	77.490		... they put a= uh,
+78.220	82.940		... a type of uh .. base on it that needs water and,
+81.950	83.130	>ENV:	((DOG_BARKING_ENDS))
+83.990	85.760	LARRY:	... that just hasn't happened yet.
+86.700	87.540	SETH:	... [Oh],
+86.700	87.540	LARRY:	    [X] --
+87.540	88.240	SETH:	I see.
+88.730	91.430		... So there's some chemical reaction that has to take [place],
+90.820	91.430	LARRY:	                                                       [Yeah].
+91.430	95.360		.. I guess ... <P a good a- ... analogy P>.
+96.230	98.240	>ENV: ((DOG_BARKING_BEGINS))
+98.240	98.630	LARRY:	... <X #Chelsea X>,
+98.630	99.150		no.
+101.090	102.790	>ENV:	... ((DOG_BARKING_ENDS))
+103.120	105.150	LARRY:	.. That should hold it in there.
+105.860	106.750		... Okay.
+107.940	108.900		... [Nice to meet you].
+107.940	108.900	SETH:	    [How you doing].
+108.900	109.350		Good to see you.
+109.350	109.870	LARRY:	What's your name?
+109.510	109.890	>ENV:	((DOG_BARKING_BEGINS))
+109.890	110.340	SETH:	.. ~Seth.
+110.340	110.640	LARRY:	~Seth.
+110.640	111.320		Okay.
+111.320	112.350	SETH:	.. Here's my card here.
+112.350	113.120	LARRY:	.. Thanks ~Seth.
+112.350	113.140	>ENV:	((DOG_BARKING_ENDS))
+114.640	116.580	LARRY:	... <X I think it's warming up a bit here X>.]]></TEXT>
+<TAGS>
+<GENERAL id="G0" spans="309~342" text="31.120	32.020		.. You&apos;re the guy." type="statement" />
+<GENERAL id="G1" spans="375~429" text="32.930	34.280	SETH:	.. You&apos;re the guy to talk to then." type="statement" />
+<GENERAL id="G2" spans="430~463" text="34.100	34.900	LARRY:	I&apos;m the guy." type="statement" />
+<GENERAL id="G3" spans="512~570" text="35.840	37.240		(H) I didn&apos;t know if I had the right place." type="statement" />
+<GENERAL id="G4" spans="635~662" text="38.210	38.870		.. I just --" type="statement" />
+<GENERAL id="G5" spans="605~634" text="37.500	38.210		you got it @&gt;." type="statement" />
+<GENERAL id="G6" spans="713~813" text="41.200	42.300	LARRY:	&lt;@ You&apos;re probably trying t- @&gt; -- 42.300	43.450		.. &lt;VOX Yeah this is strange," type="statement" />
+<GENERAL id="G7" spans="896~1017" text="44.990	49.250	LARRY:	.. I&apos;m putting water in a ... &lt;X twenty-six X&gt; gallon container, 49.250	50.720		inside my ... truck." type="explanation" />
+<GENERAL id="G8" spans="1059~1087" text="51.170	51.850	SETH:	... Wow." type="exclamation" />
+<GENERAL id="G9" spans="1088~1128" text="51.850	52.480		.. [That&apos;s quite a p-] --" type="exclamation" />
+<GENERAL id="G10" spans="1129~1285" text="51.840	53.490	LARRY:	   [Cause I had to] haul it to a property, 53.490	54.740		which doesn&apos;t have any water, 54.740	56.330		.. and I have to spray the road." type="explanation" />
+<GENERAL id="G11" spans="1341~1410" text="58.230	60.610		... [Cause the road] .. before .. you can drive on it," type="explanation" />
+<GENERAL id="G12" spans="1450~1563" text="60.610	63.100	LARRY:	it needs ... more uh -- 64.160	66.590		... more ... stability. 66.590	67.750		... Evidently." type="explanation" />
+<GENERAL id="G13" spans="1450~1654" text="60.610	63.100	LARRY:	it needs ... more uh -- 64.160	66.590		... more ... stability. 66.590	67.750		... Evidently. 67.890	70.190		... So give me one second to lock this thing, 70.190	70.760		[and then XX]," type="statement" />
+<GENERAL id="G14" spans="1837~1968" text="74.790	75.120		it&apos;s uh, 75.120	75.840	&gt;ENV:	((DOG_BARKING_BEGINS) 75.120	75.840	LARRY:	they put, 75.840	77.490		... they put a= uh," type="statement" />
+<GENERAL id="G15" spans="1903~2036" text="75.120	75.840	LARRY:	they put, 75.840	77.490		... they put a= uh, 78.220	82.940		... a type of uh .. base on it that needs water and," type="explanation" />
+<QUESTION id="Q0" spans="109~140" text="10.900	12.150		how are you guy?" type="wh" />
+<QUESTION id="Q1" spans="141~215" text="11.850	12.760	SETH:	... Are you ~Larry? 28.820	29.780		... Are you ~Larry?" type="yes_no" />
+<QUESTION id="Q2" spans="246~275" text="30.520	31.120		[How are you]." type="wh" />
+<QUESTION id="Q3" spans="276~308" text="30.520	31.120	SETH:	[Are you] --" type="yes_no" />
+<QUESTION id="Q4" spans="343~374" text="32.240	32.980	LARRY:	... Hunh=?" type="wh" />
+<QUESTION id="Q5" spans="663~712" text="39.990	41.310	SETH:	... What are you doing there." type="wh" />
+<QUESTION id="Q6" spans="814~858" text="43.450	45.010		what&apos;s this [guy] doing VOX&gt;." type="wh" />
+<QUESTION id="Q7" spans="1655~1740" text="70.190	71.340	SETH:	[Is that to keep the] dust, 71.340	72.410		.. keep the dust down?" type="yes_no" />
+<RESPONSE id="R0" spans="216~245" text="30.060	30.520	LARRY:	... Yes." type="accept" />
+<RESPONSE id="R1" spans="430~486" text="34.100	34.900	LARRY:	I&apos;m the guy. 34.900	35.630		[Yeah]." type="accept" />
+<RESPONSE id="R2" spans="512~570" text="35.840	37.240		(H) I didn&apos;t know if I had the right place." type="no_knowledge" />
+<RESPONSE id="R3" spans="571~604" text="37.050	37.500	LARRY:	..  &lt;@ Yeah," type="backchannel" />
+<RESPONSE id="R4" spans="571~634" text="37.050	37.500	LARRY:	..  &lt;@ Yeah, 37.500	38.210		you got it @&gt;." type="accept" />
+<RESPONSE id="R5" spans="713~768" text="41.200	42.300	LARRY:	&lt;@ You&apos;re probably trying t- @&gt; --" type="uncertain" />
+<RESPONSE id="R6" spans="1286~1313" text="56.330	57.020	SETH:	.. Ah=." type="backchannel" />
+<RESPONSE id="R7" spans="1411~1449" text="58.230	59.290	SETH:	    [Interesting]." type="backchannel" />
+<RESPONSE id="R8" spans="1741~1860" text="72.530	73.300	LARRY:	... well (Hx), 73.300	73.610		no, 73.610	74.790		.. it&apos;s not that so much, 74.790	75.120		it&apos;s uh," type="reject" />
+<ACTION_MOTIVATOR id="A0" spans="1129~1192" text="51.840	53.490	LARRY:	   [Cause I had to] haul it to a property," type="commitment" />
+<ACTION_MOTIVATOR id="A1" spans="1238~1285" text="54.740	56.330		.. and I have to spray the road." type="commitment" />
+<ACTION_MOTIVATOR id="A2" spans="1564~1654" text="67.890	70.190		... So give me one second to lock this thing, 70.190	70.760		[and then XX]," type="command" />
+<REPEATS id="RE0" spans="181~215" text="28.820	29.780		... Are you ~Larry?" type="repetition_request" />
+<REPEATS id="RE1" spans="375~429" text="32.930	34.280	SETH:	.. You&apos;re the guy to talk to then." type="restatement" />
+<REPEATS id="RE3" spans="1934~1968" text="75.840	77.490		... they put a= uh," type="restatement" />
+<POLITE id="P0" spans="0~32" text="2.750	4.370	SETH:	... Excuse me." type="apology" />
+<POLITE id="P1" spans="79~140" text="10.290	10.900	LARRY:	... Hey, 10.900	12.150		how are you guy?" type="greeting" />
+<POLITE id="P2" spans="246~275" text="30.520	31.120		[How are you]." type="greeting" />
+</TAGS>
+</DialogActTask>
