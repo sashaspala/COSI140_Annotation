@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<DialogActTask>
+<TEXT><![CDATA[0.000	1.780	DANA:	I thought they were gonna be back .. by n[ow],
+1.505	3.514	KELLY:	[You did]n't hear em .. playing last [2night2].
+3.155	3.853	DANA:	[2I know2]=.
+3.853	4.920	KELLY:	... Where did they go.
+4.920	8.199	DANA:	... They went out to dinner with ... [~Arianna's parents].
+7.060	8.199	KELLY:	[~Arianna's parents].
+8.199	9.062		... Yeah.
+9.062	11.328		That [was her ... grand]ma on the phone.
+9.300	10.395	DANA:	[They left at like],
+11.328	12.833		... quarter of eight.
+12.833	13.767	KELLY:	... Mm.
+13.767	15.458		... Maybe they went shopping.
+15.458	16.462		... First,
+16.462	17.440		and then went to dinner.
+17.440	18.728	DANA:	... I think they're hanging out.
+18.728	19.401		... [With],
+19.003	19.401	KELLY:	[XX]
+19.401	20.538	DANA:	... the ~Callahans.
+20.538	22.262		... Gotta have some of my sister's bread.
+22.262	23.743		It is so= .. good.
+23.743	24.030	KELLY:	.. What --
+24.030	25.158		Is it like regular bread,
+25.158	25.512		or is it,
+25.512	25.862	DANA:	No.
+25.862	26.693		.. Molasses.
+26.693	27.237	KELLY:	... Oh.
+27.237	28.766	DANA:	... Oh,
+28.766	29.686		.. I love this bread.
+29.686	33.800		... (SNIFF)
+33.800	35.310		... <WH It's so good.
+35.310	36.122		... Oh WH>.
+36.122	37.254	KELLY:	... You should make it.
+37.254	38.192	DANA:	... No,
+38.192	39.267		I don't know how to make it.
+39.267	41.627	KELLY:	... That is the cutest cutting board.
+41.627	42.032		Isn't [it]?
+41.819	42.506	DANA:	[I @know]=.
+42.506	43.080	KELLY:	<@ I love it @>.
+43.080	43.772	DANA:	@(H)
+43.772	44.897		.. <SING Little piggies SING>.
+44.897	52.507		... You wanna piece of toast?
+52.507	54.582	KELLY:	... (TSK) Sure (Hx).
+54.582	64.140	DANA:	... Here.
+64.140	65.488		Try some of it first.
+65.488	72.961	KELLY:	... (TSK)
+72.961	74.204		... <FOOD It's different.
+74.204	76.385		... I like it.
+76.385	83.597		... When'd she start making this FOOD>.
+83.597	85.766	DANA:	... I don't know,
+85.766	86.831		<X Kinda like X> couple years ago.
+86.831	87.988	KELLY:	... Mm.
+87.988	97.071		... Does she always come home in the summer?
+97.071	97.805		.. From school?
+97.805	98.430	DANA:	... Mhm.
+98.430	99.085	KELLY:	.. Oh really?
+99.085	100.319	DANA:	... XX
+100.319	100.832		... X
+100.832	101.688		... Cause,
+101.688	105.303		... she gets really homesick?
+105.303	106.242	KELLY:	... Oh does she?
+106.242	107.250	DANA:	... so,
+107.250	109.642		... and she likes to come home.
+109.642	111.548		... And we have that house,
+111.548	112.711		at the Cape [and stu]ff,
+112.127	112.560	KELLY:	[Yeah].
+112.711	115.534		... See I don't really miss .. home.
+115.534	116.845		I mean I miss my family you know,
+116.845	117.214		but like,
+117.214	118.352		I don't th=ink about them,
+118.352	119.725		... when I'm up here really.
+119.725	121.523		... Except for I call every few days,
+121.523	123.002	DANA:	... <FOOD Oh I don't,
+123.002	125.681		... I miss my house.
+125.681	126.268	KELLY:	... Yeah.
+126.268	127.661		I miss ... my [house].
+127.063	128.804	DANA:	[I miss the] feeling of being ho[2=me2],
+128.612	128.916	KELLY:	[2Mm2]=.]]></TEXT>
+<TAGS>
+<GENERAL id="G0" spans="0~64" text="0.000	1.780	DANA:	I thought they were gonna be back .. by n[ow]," type="statement" />
+<GENERAL id="G1" spans="65~131" text="1.505	3.514	KELLY:	[You did]n&apos;t hear em .. playing last [2night2]." type="statement" />
+<GENERAL id="G2" spans="205~281" text="4.920	8.199	DANA:	... They went out to dinner with ... [~Arianna&apos;s parents]." type="statement" />
+<GENERAL id="G3" spans="346~400" text="9.062	11.328		That [was her ... grand]ma on the phone." type="statement" />
+<GENERAL id="G4" spans="401~477" text="9.300	10.395	DANA:	[They left at like], 11.328	12.833		... quarter of eight." type="statement" />
+<GENERAL id="G5" spans="507~617" text="13.767	15.458		... Maybe they went shopping. 15.458	16.462		... First, 16.462	17.440		and then went to dinner." type="statement" />
+<GENERAL id="G6" spans="618~697" text="17.440	18.728	DANA:	... I think they&apos;re hanging out. 18.728	19.401		... [With]," type="statement" />
+<GENERAL id="G7" spans="724~854" text="19.401	20.538	DANA:	... the ~Callahans. 20.538	22.262		... Gotta have some of my sister&apos;s bread. 22.262	23.743		It is so= .. good." type="statement" />
+<GENERAL id="G8" spans="977~1004" text="25.862	26.693		.. Molasses." type="explanation" />
+<GENERAL id="G9" spans="1126~1189" text="33.800	35.310		... &lt;WH It&apos;s so good. 35.310	36.122		... Oh WH&gt;." type="exclamation" />
+<GENERAL id="G10" spans="1062~1098" text="28.766	29.686		.. I love this bread." type="statement" />
+<GENERAL id="G11" spans="1034~1061" text="27.237	28.766	DANA:	... Oh," type="exclamation" />
+<GENERAL id="G12" spans="1263~1306" text="38.192	39.267		I don&apos;t know how to make it." type="explanation" />
+<GENERAL id="G13" spans="1307~1365" text="39.267	41.627	KELLY:	... That is the cutest cutting board." type="statement" />
+<GENERAL id="G14" spans="1425~1462" text="42.506	43.080	KELLY:	&lt;@ I love it @&gt;." type="statement" />
+<GENERAL id="G15" spans="1488~1533" text="43.772	44.897		.. &lt;SING Little piggies SING&gt;." type="statement" />
+<GENERAL id="G16" spans="1621~1650" text="54.582	64.140	DANA:	... Here." type="statement" />
+<GENERAL id="G18" spans="1719~1789" text="72.961	74.204		... &lt;FOOD It&apos;s different. 74.204	76.385		... I like it." type="statement" />
+<GENERAL id="G19" spans="1883~1932" text="85.766	86.831		&lt;X Kinda like X&gt; couple years ago." type="statement" />
+<QUESTION id="Q0" spans="163~204" text="3.853	4.920	KELLY:	... Where did they go." type="wh" />
+<QUESTION id="Q1" spans="855~886" text="23.743	24.030	KELLY:	.. What --" type="wh" />
+<QUESTION id="Q2" spans="887~952" text="24.030	25.158		Is it like regular bread, 25.158	25.512		or is it," type="or" />
+<QUESTION id="Q3" spans="1366~1392" text="41.627	42.032		Isn&apos;t [it]?" type="yes_no" />
+<QUESTION id="Q4" spans="1534~1578" text="44.897	52.507		... You wanna piece of toast?" type="yes_no" />
+<QUESTION id="Q5" spans="1790~1844" text="76.385	83.597		... When&apos;d she start making this FOOD&gt;." type="wh" />
+<RESPONSE id="R0" spans="132~162" text="3.155	3.853	DANA:	[2I know2]=." type="accept" />
+<RESPONSE id="R1" spans="323~345" text="8.199	9.062		... Yeah." type="accept" />
+<RESPONSE id="R2" spans="323~345" text="8.199	9.062		... Yeah." type="backchannel" />
+<RESPONSE id="R3" spans="478~506" text="12.833	13.767	KELLY:	... Mm." type="backchannel" />
+<RESPONSE id="R4" spans="478~506" text="12.833	13.767	KELLY:	... Mm." type="partial_accept" />
+<RESPONSE id="R5" spans="507~617" text="13.767	15.458		... Maybe they went shopping. 15.458	16.462		... First, 16.462	17.440		and then went to dinner." type="uncertain" />
+<RESPONSE id="R6" spans="953~976" text="25.512	25.862	DANA:	No." type="reject" />
+<RESPONSE id="R7" spans="1005~1033" text="26.693	27.237	KELLY:	... Oh." type="backchannel" />
+<RESPONSE id="R8" spans="1034~1061" text="27.237	28.766	DANA:	... Oh," type="backchannel" />
+<RESPONSE id="R9" spans="1235~1262" text="37.254	38.192	DANA:	... No," type="reject" />
+<RESPONSE id="R10" spans="1263~1306" text="38.192	39.267		I don&apos;t know how to make it." type="no_knowledge" />
+<RESPONSE id="R11" spans="1393~1424" text="41.819	42.506	DANA:	[I @know]=." type="accept" />
+<RESPONSE id="R12" spans="1579~1620" text="52.507	54.582	KELLY:	... (TSK) Sure (Hx)." type="accept" />
+<RESPONSE id="R13" spans="1845~1932" text="83.597	85.766	DANA:	... I don&apos;t know, 85.766	86.831		&lt;X Kinda like X&gt; couple years ago." type="no_knowledge" />
+<ACTION_MOTIVATOR id="A0" spans="764~820" text="20.538	22.262		... Gotta have some of my sister&apos;s bread." type="command" />
+<ACTION_MOTIVATOR id="A1" spans="1190~1234" text="36.122	37.254	KELLY:	... You should make it." type="suggestion" />
+<ACTION_MOTIVATOR id="A2" spans="1621~1687" text="54.582	64.140	DANA:	... Here. 64.140	65.488		Try some of it first." type="command" />
+<REPEATS id="RE0" spans="282~322" text="7.060	8.199	KELLY:	[~Arianna&apos;s parents]." type="restatement" />
+</TAGS>
+</DialogActTask>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<DialogActTask>
+<TEXT><![CDATA[0.000	1.496	FRED:	(H) .. (H) Yeah.
+1.496	2.132		I tell you man,
+2.132	3.496		that factory's the pits ma[n,
+3.419	3.971	RICHARD:	[What's new].
+3.496	6.123	FRED:	last night] I got into a hassle with James Boyd.
+6.123	7.719		.. (H) I'm in the cafeteria,
+7.719	8.043	RICHARD:	[Yeah].
+7.719	8.623	FRED:	[and I took] a= break,
+8.623	10.412		.. that was <VOX just a little bit VOX> too long man.
+10.412	10.712		You know.
+10.712	11.136	RICHARD:	[Yeah,
+10.793	11.399	FRED:	[@@ (H)
+11.136	11.938	RICHARD:	I can imagine].
+11.399	13.076	FRED:	(H) <@ ha]=lf hou=r brea=k @>,
+13.076	16.358	RICHARD:	... (H) [2You stretched a fifteen minute break2] into a [3half hour3] break.
+13.316	15.230	FRED:	[2@(H)= @@@ @(H) @2]
+15.412	16.188		[3to a half hour3].
+16.358	18.400		(H) And then he comes into the cafeteria.
+18.400	21.320		(H) And I thought he was coming in to chase everybody away.
+21.320	22.343	RICHARD:	[He was after you].
+21.389	23.166	FRED:	[(H) But he's coming] after me.
+23.166	24.055		.. And he calls me.
+24.055	25.434		And I'm @walking out the door.
+25.434	27.028		Right as he's walking in the o[ther one]?
+26.682	27.233	RICHARD:	[Unhu]=nh?
+27.233	28.139	FRED:	... @(H) @
+28.139	28.752		(H) And he goes,
+28.752	29.066		 <VOX ~Fred,
+29.066	29.693		 I wanna talk to you,
+29.693	30.094		come here VOX>.
+30.094	31.008		.. (H) @And I go,
+31.008	31.658		oh= man,
+31.658	32.465		what is this about.
+32.465	34.316		.. (H) And on my production card.
+34.316	35.323		... (TSK) (H) Let's see.
+35.323	36.724		... The day before yesterday.
+36.724	37.927		.. I did ice cream.
+37.927	38.241		.. Right,
+38.241	38.819		Balian?
+38.819	39.288	RICHARD:	Unh[unh].
+39.063	41.080	FRED:	[(H)] And you gotta pack those in cases.
+41.080	42.055		... (H)[2= And2],
+41.630	42.055	RICHARD:	[2Right2].
+42.065	42.467	FRED:	so like,
+42.467	44.468		I didn't put that down on my production c[ard].
+44.142	45.517	RICHARD:	[How many] cases you packed.
+45.517	46.551	FRED:	(H) I don't know man.
+46.551	47.898		... I packed two pallets.
+47.898	48.604		... You know,
+48.604	50.536		... I don't know how many .. cases [that is],
+50.015	50.468	RICHARD:	[Unhunh],
+50.536	50.737	FRED:	but,
+50.737	51.839		(H)= you know,
+51.839	52.115		that,
+52.115	53.536		.. that shit was heavy man.
+53.536	54.011		And like,
+54.011	55.751		... and like,
+55.751	58.909		... I put down on the card,
+58.909	59.310		you know,
+59.310	60.061		no cases.
+60.061	61.416		Because it was lost time.
+61.416	61.840		You know,
+61.840	62.415		... you know we,
+62.415	62.665	RICHARD:	Right.
+62.665	64.118	FRED:	[we stripped the s]ides and everything,
+62.665	62.935	RICHARD:	[Right.
+62.935	63.247		Yeah].
+64.118	64.607	FRED:	and l[2ike,
+64.425	65.950	RICHARD:	[2Y- y- you were teaming up with s2]omebody,
+64.607	65.641	FRED:	there were no cases2].
+65.950	66.738	RICHARD:	[3or working alone3].
+65.950	66.738	FRED:	[3(H) %=3]
+66.738	67.067		I w- --
+67.067	67.519		uh=,
+67.519	69.143		% Gutierrez was doing the .. same job.
+69.143	70.295		But we weren't [working together].
+69.735	70.686	RICHARD:	[Oh you're working] alone.]]></TEXT>
+<TAGS>
+<GENERAL id="G0" spans="0~106" text="0.000	1.496	FRED:	(H) .. (H) Yeah. 1.496	2.132		I tell you man, 2.132	3.496		that factory&apos;s the pits ma[n," type="statement" />
+<GENERAL id="G1" spans="142~250" text="3.496	6.123	FRED:	last night] I got into a hassle with James Boyd. 6.123	7.719		.. (H) I&apos;m in the cafeteria," type="statement" />
+<GENERAL id="G2" spans="280~413" text="7.719	8.623	FRED:	[and I took] a= break, 8.623	10.412		.. that was &lt;VOX just a little bit VOX&gt; too long man. 10.412	10.712		You know." type="statement" />
+<GENERAL id="G3" spans="472~510" text="11.136	11.938	RICHARD:	I can imagine]." type="statement" />
+<GENERAL id="G4" spans="511~561" text="11.399	13.076	FRED:	(H) &lt;@ ha]=lf hou=r brea=k @&gt;," type="statement" />
+<GENERAL id="G5" spans="562~661" text="13.076	16.358	RICHARD:	... (H) [2You stretched a fifteen minute break2] into a [3half hour3] break." type="statement" />
+<GENERAL id="G6" spans="703~869" text="15.412	16.188		[3to a half hour3]. 16.358	18.400		(H) And then he comes into the cafeteria. 18.400	21.320		(H) And I thought he was coming in to chase everybody away." type="statement" />
+<GENERAL id="G7" spans="870~912" text="21.320	22.343	RICHARD:	[He was after you]." type="statement" />
+<GENERAL id="G8" spans="913~1102" text="21.389	23.166	FRED:	[(H) But he&apos;s coming] after me. 23.166	24.055		.. And he calls me. 24.055	25.434		And I&apos;m @walking out the door. 25.434	27.028		Right as he&apos;s walking in the o[ther one]?" type="statement" />
+<GENERAL id="G9" spans="1137~1556" text="27.233	28.139	FRED:	... @(H) @ 28.139	28.752		(H) And he goes, 28.752	29.066		 &lt;VOX ~Fred, 29.066	29.693		 I wanna talk to you, 29.693	30.094		come here VOX&gt;. 30.094	31.008		.. (H) @And I go, 31.008	31.658		oh= man, 31.658	32.465		what is this about. 32.465	34.316		.. (H) And on my production card. 34.316	35.323		... (TSK) (H) Let&apos;s see. 35.323	36.724		... The day before yesterday. 36.724	37.927		.. I did ice cream." type="statement" />
+<GENERAL id="G10" spans="1638~1731" text="39.063	41.080	FRED:	[(H)] And you gotta pack those in cases. 41.080	42.055		... (H)[2= And2]," type="statement" />
+<GENERAL id="G11" spans="1766~1857" text="42.065	42.467	FRED:	so like, 42.467	44.468		I didn&apos;t put that down on my production c[ard]." type="statement" />
+<GENERAL id="G12" spans="1952~2082" text="46.551	47.898		... I packed two pallets. 47.898	48.604		... You know, 48.604	50.536		... I don&apos;t know how many .. cases [that is]," type="statement" />
+<QUESTION id="Q0" spans="107~141" text="3.419	3.971	RICHARD:	[What&apos;s new]." type="wh" />
+<QUESTION id="Q1" spans="1046~1102" text="25.434	27.028		Right as he&apos;s walking in the o[ther one]?" type="yes_no" />
+<QUESTION id="Q2" spans="1353~1387" text="31.658	32.465		what is this about." type="wh" />
+<QUESTION id="Q3" spans="1557~1604" text="37.927	38.241		.. Right, 38.241	38.819		Balian?" type="yes_no" />
+<QUESTION id="Q4" spans="1858~1909" text="44.142	45.517	RICHARD:	[How many] cases you packed." type="wh" />
+<RESPONSE id="R0" spans="107~141" text="3.419	3.971	RICHARD:	[What&apos;s new]." type="accept" />
+<RESPONSE id="R1" spans="107~141" text="3.419	3.971	RICHARD:	[What&apos;s new]." type="backchannel" />
+<RESPONSE id="R2" spans="251~279" text="7.719	8.043	RICHARD:	[Yeah]." type="backchannel" />
+<RESPONSE id="R3" spans="414~443" text="10.712	11.136	RICHARD:	[Yeah," type="backchannel" />
+<RESPONSE id="R4" spans="414~443" text="10.712	11.136	RICHARD:	[Yeah," type="accept" />
+<RESPONSE id="R5" spans="472~510" text="11.136	11.938	RICHARD:	I can imagine]." type="backchannel" />
+<RESPONSE id="R6" spans="1103~1136" text="26.682	27.233	RICHARD:	[Unhu]=nh?" type="backchannel" />
+<RESPONSE id="R7" spans="1605~1637" text="38.819	39.288	RICHARD:	Unh[unh]." type="backchannel" />
+<RESPONSE id="R8" spans="1605~1637" text="38.819	39.288	RICHARD:	Unh[unh]." type="accept" />
+<RESPONSE id="R9" spans="1732~1765" text="41.630	42.055	RICHARD:	[2Right2]." type="backchannel" />
+<RESPONSE id="R10" spans="1910~1951" text="45.517	46.551	FRED:	(H) I don&apos;t know man." type="no_knowledge" />
+<RESPONSE id="R11" spans="2022~2082" text="48.604	50.536		... I don&apos;t know how many .. cases [that is]," type="uncertain" />
+<REPEATS id="RE0" spans="703~737" text="15.412	16.188		[3to a half hour3]." type="restatement" />
+</TAGS>
+</DialogActTask>

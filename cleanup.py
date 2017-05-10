@@ -65,10 +65,12 @@ class cleanup:
 		# get rid of anything in between parenthesis, and extract any words between []
 		content = ' '.join(split_utt[index:])
 		paren_match = re.sub('\(.+\)', '', content)
-		left_bracket_match = re.sub('\[[0-9]+', '', paren_match)
-		right_bracket_match = re.sub('[0-9]+\]', '', left_bracket_match)
-		print right_bracket_match
-		return right_bracket_match
+		left_bracket_match = re.sub('\[[0-9]*', '', paren_match)
+		right_bracket_match = re.sub('[0-9]*\]', '', left_bracket_match)
+		num_match = re.sub('[0-9\-\+=&%$#@!.^><?,\\\]', '', right_bracket_match)
+		split = [word.lower() for word in num_match.split()]
+		rebuilt = ' '.join(split)
+		return rebuilt
 
 if __name__ == "__main__":
 	cl = cleanup('corpus/')
